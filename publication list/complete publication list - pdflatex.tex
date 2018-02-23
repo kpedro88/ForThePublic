@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage[
+	pdftex,
+	colorlinks=true,
+	linkcolor=darkblue,
+	citecolor=darkred,
+	urlcolor=blue
+	]{hyperref}
+%\usepackage[autostyle]{csquotes}
+
+\usepackage[
+    backend=bibtex,
+    style=numeric-comp,
+    sorting=ydnt,
+    url=true, 
+    doi=true,
+    eprint=true
+]{biblatex}
+
+\addbibresource{all.bib}
+
+\defbibenvironment{midbib}
+  {\list
+     {}
+     {\setlength{\leftmargin}{\bibhang}%
+      \setlength{\itemindent}{-\leftmargin}%
+      \setlength{\itemsep}{\bibitemsep}%
+      \setlength{\parsep}{\bibparsep}}}
+  {\endlist}
+  {\item}
+
+\begin{document}
+\nocite{*}
+
+\printbibliography[heading=none, env=midbib]
+
+\end{document}
