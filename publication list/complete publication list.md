@@ -1,7 +1,6 @@
 ---
 bibliography: all.bib
-csl: custom.csl
+csl: elsevier.csl
 nocite: '@*'
 ...
 
-# Bibliography

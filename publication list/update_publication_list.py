@@ -82,6 +82,18 @@ def inspire_get_bibtex(number_of_records):
             entry['title'] = entry['title'].replace('\\mathrm {','\\mathrm{')
             entry['title'] = entry['title'].replace('_\mathrm{NN}','_{\\mathrm{NN}}')
             entry['title'] = entry['title'].replace('$\sigma_\mathrm{t \\bar{t} b \\bar{b}} / \sigma_\mathrm{t \\bar{t}  jj } $','$\sigma_{\mathrm{t \\bar{t} b \\bar{b}}} / \sigma_{\mathrm{t \\bar{t}  jj }} $')
+            
+            if 'eprint' in entry.keys():
+                eprint = entry['eprint']
+                prefix = 'arXiv'
+                if 'archiveprefix' in entry.keys(): prefix = entry['archiveprefix']
+                primaryclass = 'hep-ex'
+                if 'primaryclass' in entry.keys(): primaryclass = entry['primaryclass']
+                url = 'http://arxiv.org/abs/' + eprint
+                urltext = eprint + ' [' + primaryclass +']'
+                note = prefix + ':\\href{' + url + '}{' + urltext + '}'
+                entry['note'] = note
+            
         db.entries.extend(tmp_db.entries)
     return db
 # $\,TeV$

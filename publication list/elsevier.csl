@@ -19,7 +19,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>A style for many of Elsevier's journals that includes article titles in the reference list</summary>
-    <updated>2018-02-20T03:15:23+00:00</updated>
+    <updated>2018-02-24T04:13:35+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
@@ -92,7 +92,6 @@
       <key variable="issued" sort="descending"/>
     </sort>
     <layout>
-      <text variable="citation-number" prefix="[" suffix="]"/>
       <text macro="author" suffix=", "/>
       <choose>
         <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
@@ -141,11 +140,16 @@
       </choose>
       <choose>
         <if variable="DOI">
-          <text variable="DOI" prefix=". doi:"/>
+          <text variable="DOI" prefix=", doi:"/>
         </if>
         <else>
           <text macro="access" prefix=". "/>
         </else>
+      </choose>
+      <choose>
+        <if match="any" variable="note">
+          <text variable="note" prefix=", "/>
+        </if>
       </choose>
     </layout>
   </bibliography>
