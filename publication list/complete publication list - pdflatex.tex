@@ -17,6 +17,10 @@
     eprint=true
 ]{biblatex}
 
+\AtEveryBibitem{%
+  \clearfield{note}%
+}
+
 \addbibresource{all.bib}
 
 \defbibenvironment{midbib}
