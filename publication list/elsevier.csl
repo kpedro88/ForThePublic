@@ -19,12 +19,12 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>A style for many of Elsevier's journals that includes article titles in the reference list</summary>
-    <updated>2018-02-24T04:13:35+00:00</updated>
+    <updated>2018-02-26T01:08:14+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
     <names variable="author">
-      <name delimiter-precedes-last="always" initialize-with="."/>
+      <name delimiter-precedes-last="always" et-al-min="2" et-al-use-first="1" et-al-subsequent-min="2" et-al-subsequent-use-first="1" initialize-with="."/>
       <label form="short" prefix=", "/>
       <substitute>
         <names variable="editor"/>
@@ -96,16 +96,16 @@
       <choose>
         <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
           <group delimiter=", ">
-            <text variable="title"/>
+            <text variable="title" font-weight="bold"/>
             <text macro="edition"/>
             <text macro="publisher"/>
           </group>
         </if>
         <else-if type="chapter paper-conference" match="any">
-          <text variable="title" suffix=", "/>
+          <text variable="title" suffix=", " font-weight="bold"/>
           <text term="in" suffix=": "/>
           <text macro="editor" suffix=", "/>
-          <text variable="container-title" form="short" text-case="title" suffix=", "/>
+          <text variable="container-title" form="short" text-case="title" suffix=", " font-weight="bold"/>
           <text macro="edition" suffix=", "/>
           <text macro="publisher"/>
           <group delimiter=" ">
@@ -122,7 +122,7 @@
         </else-if>
         <else-if type="thesis">
           <group delimiter=", ">
-            <text variable="title"/>
+            <text variable="title" font-weight="bold"/>
             <text variable="genre"/>
             <text variable="publisher"/>
             <text macro="year-date"/>

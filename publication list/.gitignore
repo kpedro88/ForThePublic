@@ -3,6 +3,7 @@
 *.blg
 *.log
 *.out
-*.pdf
+*pdflatex.pdf
 *.run.xml
 *-blx.bib
+.DS_Store
