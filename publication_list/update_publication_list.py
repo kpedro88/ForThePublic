@@ -118,6 +118,8 @@ def inspire_get_bibtex(number_of_records):
             entry['title'] = entry['title'].replace('\\mathrm {','\\mathrm{')
             entry['title'] = entry['title'].replace('_\mathrm{NN}','_{\\mathrm{NN}}')
             entry['title'] = entry['title'].replace('$\sigma_\mathrm{t \\bar{t} b \\bar{b}} / \sigma_\mathrm{t \\bar{t}  jj } $','$\sigma_{\mathrm{t \\bar{t} b \\bar{b}}} / \sigma_{\mathrm{t \\bar{t}  jj }} $')
+            entry['title'] = entry['title'].replace('$13','$ 13')
+            entry['title'] = entry['title'].replace('$8','$ 8')
             if 'doi' in entry.keys(): entry['doi'] = entry['doi'].split(',')[0].strip()
             
             if 'eprint' in entry.keys():
@@ -187,19 +189,19 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
     # which entries from physics_db have been deleted
     for key in physics_keys:
         if key not in new_keys:
-            print("Physics DB entry '%s' was deleted from inspire" % key)
+            print("Physics DB entry '%s' was deleted from inspire, remove manually" % key)
             quit()
 
     # which entries from computing_db have been deleted
     for key in computing_keys:
         if key not in new_keys:
-            print("Computing DB entry '%s' was deleted from inspire" % key)
+            print("Computing DB entry '%s' was deleted from inspire, remove manually" % key)
             quit()
 
     # which entries from experiment_db have been deleted
     for key in experiment_keys:
         if key not in new_keys:
-            print("Experiment DB entry '%s' was deleted from inspire" % key)
+            print("Experiment DB entry '%s' was deleted from inspire, remove manually" % key)
             quit()
             
     # which keys are new
@@ -210,10 +212,9 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
     # check for missing keys and print them
     if len(missing_keys) > 0:
         print("Following records are new: '%s'" % ','.join(missing_keys))
-        quit()
 
     #  move keys to physics or computing
-    new_physics_keys = ['Chatrchyan:2011dk','Chatrchyan:2013yaa','Chatrchyan:2012ira','Khachatryan:2015lwa','Khachatryan:2014ewa','Khachatryan:2014doa','Khachatryan:2014mma','Khachatryan:2014qwa','Khachatryan:2014sta','Khachatryan:2015sga','Khachatryan:2016xvy','Khachatryan:2016kod','Khachatryan:2016fll','Sirunyan:2016jpr','Sirunyan:2017kqq','Sirunyan:2017uyt','Sirunyan:2017xse','Sirunyan:2017qaj','Sirunyan:2017zss','Sirunyan:2017roi','Sirunyan:2018gka']
+    new_physics_keys = []
     new_computing_keys=[]
     physics_keys.extend(new_physics_keys)
     computing_keys.extend(new_computing_keys)
@@ -224,6 +225,10 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
     for key in new_computing_keys:
         while key in experiment_keys:
             experiment_keys.remove(key)
+
+    # add new keys to experiment  
+    new_experiment_keys=[]
+    experiment_keys.extend(new_experiment_keys)
 
     # update all keys in physics_db    
     tmp_list = []
@@ -270,11 +275,11 @@ def main(args):
     parser = argparse.ArgumentParser()
     parser.add_argument("--verbose", action="store_true", help="Increase verbosity of program output")
     parser.add_argument("--input", action="store", default = None, help="Specify filename of complete Inspire records query in BibTeX format instead of querying Inspire.")
-    parser.add_argument("--additional", action="store", default = "additional publication list.bib", help="Filename of BiBTeX file with records in addition to a complete Inspire query")
-    parser.add_argument("--output", action="store", default = "complete publication list.bib", help="Output file name to store all records of complete Inspire query")
-    parser.add_argument("--physics", action="store", default = "physics publication list.bib", help="Filename of physics publications with direct involvement")
-    parser.add_argument("--computing", action="store", default = "computing publication list.bib", help="Filename of computing publications with direct involvement")
-    parser.add_argument("--experiment", action="store", default = "experiment publication list.bib", help="Filename of publications through membership in experiment collaborations")    
+    parser.add_argument("--additional", action="store", default = "additional_publication_list.bib", help="Filename of BiBTeX file with records in addition to a complete Inspire query")
+    parser.add_argument("--output", action="store", default = "complete_publication_list.bib", help="Output file name to store all records of complete Inspire query")
+    parser.add_argument("--physics", action="store", default = "physics_publication_list.bib", help="Filename of physics publications with direct involvement")
+    parser.add_argument("--computing", action="store", default = "computing_publication_list.bib", help="Filename of computing publications with direct involvement")
+    parser.add_argument("--experiment", action="store", default = "experiment_publication_list.bib", help="Filename of publications through membership in experiment collaborations")    
     args = parser.parse_args()
     
     if args.input == None:
