@@ -1,3 +1,9 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+...
+
 # Physics Publications with Major Personal Contributions
 
 changequote(`{{{{', `}}}}')

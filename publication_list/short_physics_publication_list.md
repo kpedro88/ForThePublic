@@ -1,3 +1,9 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+...
+
 # Physics Publications with Major Contributions
 
 
@@ -45,6 +51,6 @@ doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.
 arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
 
-[Full List of Physics Publications with Major Personal Contributions can be found here.](https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf)
+Full List of Physics Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf).
 
-[Full List of Publications from all Collaborations and Experiments can be found here.](https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf)
+Full List of Publications from all Collaborations and Experiments can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf).

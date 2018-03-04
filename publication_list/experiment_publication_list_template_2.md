@@ -1,3 +1,9 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+...
+
 # Publications from all Collaborations and Experiments
 
 changequote(`{{{{', `}}}}')

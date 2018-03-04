@@ -15,7 +15,7 @@ make inspire
     * [Publications from all Collaborations and Experiments](https://raw.githubusercontent.com/gutsche/ForThePublic/master/publication_list/experiment_publication_list.bib)
 * manually maintain shortened lists of the last most important physics and computing publications
     * [Short Physics Publications with Major Personal Contributions](https://raw.githubusercontent.com/gutsche/ForThePublic/master/publication_list/short_physics_publication_list.bib)
-    * [short Computing Publications with Major Personal Contributions](https://raw.githubusercontent.com/gutsche/ForThePublic/master/publication_list/short_computing_publication_list.bib)
+    * [Short Computing Publications with Major Personal Contributions](https://raw.githubusercontent.com/gutsche/ForThePublic/master/publication_list/short_computing_publication_list.bib)
 
 ## Prepare BibTex files using local information
 
@@ -52,7 +52,7 @@ make all
 make <pdf name>
 ```
 
-replacing <pdf name> with one of:
+replacing "\<pdf name\>" with one of:
 
 * [complete_publication_list.pdf](https://raw.githubusercontent.com/gutsche/ForThePublic/master/publication_list/complete_publication_list.pdf)
 * [physics_publication_list.pdf](https://raw.githubusercontent.com/gutsche/ForThePublic/master/publication_list/physics_publication_list.pdf)
@@ -60,3 +60,7 @@ replacing <pdf name> with one of:
 * [experiment_publication_list.pdf](https://raw.githubusercontent.com/gutsche/ForThePublic/master/publication_list/experiment_publication_list.pdf)
 * [short_physics_publication_list.pdf](https://raw.githubusercontent.com/gutsche/ForThePublic/master/publication_list/short_physics_publication_list.pdf)
 * [short_computing_publication_list.pdf](https://raw.githubusercontent.com/gutsche/ForThePublic/master/publication_list/short_computing_publication_list.pdf)
+
+## Execution environment
+
+A docker container with all necessary program packages based on CentOS 7 can be found [here](https://github.com/gutsche/docker-containers/tree/master/forthepublic-container).

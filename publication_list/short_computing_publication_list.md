@@ -1,3 +1,9 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+...
+
 # Computing Publications with Major Personal Contributions
 
 
@@ -44,4 +50,4 @@ Software II. Software Libraries and Tools III. Systems)**, (2015),
 arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 
-[Full List of Computing Publications with Major Personal Contributions can be found here.](https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf)
+Full List of Computing Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf).
