@@ -120,6 +120,8 @@ def inspire_get_bibtex(number_of_records):
             entry['title'] = entry['title'].replace('$\sigma_\mathrm{t \\bar{t} b \\bar{b}} / \sigma_\mathrm{t \\bar{t}  jj } $','$\sigma_{\mathrm{t \\bar{t} b \\bar{b}}} / \sigma_{\mathrm{t \\bar{t}  jj }} $')
             entry['title'] = entry['title'].replace('$13','$ 13')
             entry['title'] = entry['title'].replace('$8','$ 8')
+            entry['title'] = entry['title'].replace('\mathrm','')
+            entry['title'] = entry['title'].replace('\mathit','')
             if 'doi' in entry.keys(): entry['doi'] = entry['doi'].split(',')[0].strip()
             
             if 'eprint' in entry.keys():
