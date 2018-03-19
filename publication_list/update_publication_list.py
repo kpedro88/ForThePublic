@@ -188,23 +188,25 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
     experiment_keys = experiment_db.entries_dict.keys()
     missing_keys = []
     
+    go_quit = False
+    
     # which entries from physics_db have been deleted
     for key in physics_keys:
         if key not in new_keys:
             print("Physics DB entry '%s' was deleted from inspire, remove manually" % key)
-            quit()
+            go_quit = True
 
     # which entries from computing_db have been deleted
     for key in computing_keys:
         if key not in new_keys:
             print("Computing DB entry '%s' was deleted from inspire, remove manually" % key)
-            quit()
+            go_quit = True
 
     # which entries from experiment_db have been deleted
     for key in experiment_keys:
         if key not in new_keys:
             print("Experiment DB entry '%s' was deleted from inspire, remove manually" % key)
-            quit()
+            go_quit = True
             
     # which keys are new
     for key in new_keys:
@@ -253,8 +255,10 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
     # consistency check
     if len(inspire_db.entries) != len(physics_db.entries)+len(computing_db.entries)+len(experiment_db.entries):
         print("Inconsistency: physics %i + computing %i + experiment %i = sum %i is not the same as inspire %i" % (len(physics_db.entries),len(computing_db.entries),len(experiment_db.entries),len(physics_db.entries)+len(computing_db.entries)+len(experiment_db.entries),len(inspire_db.entries)))
-        quit()
-    
+        go_quit = True
+        
+    return go_quit
+            
 def main(args):
     """
     
@@ -295,10 +299,15 @@ def main(args):
     computing_db = load_bibtex_file(args.computing, True)
     experiment_db = load_bibtex_file(args.experiment, True)
             
-    update(inspire_db,physics_db,computing_db,experiment_db)
+    go_quit = update(inspire_db,physics_db,computing_db,experiment_db)
     
     # not optional, always write the output files
     write_bibtex_file(args.output,inspire_db)
+    
+    if go_quit == True:
+        print('Exiting before writing physics, computing and experiment bib files because of inconsistencies')
+        quit()
+    
     write_bibtex_file(args.physics,physics_db)
     write_bibtex_file(args.computing,computing_db)
     write_bibtex_file(args.experiment,experiment_db)
