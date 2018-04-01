@@ -215,7 +215,7 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
 
     # check for missing keys and print them
     if len(missing_keys) > 0:
-        print("Following records are new: '%s'" % ','.join(missing_keys))
+        print("Following records are new: '%s'" % '\',\''.join(missing_keys))
 
     #  move keys to physics or computing
     new_physics_keys = []

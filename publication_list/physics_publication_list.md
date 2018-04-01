@@ -13,6 +13,13 @@ citecolor: blue
 ::: {#refs}
 :::
 
+[]{#ref-Sirunyan:2017qaj} A.M. Sirunyan et al., **Search for new
+phenomena in final states with two opposite-charge, same-flavor leptons,
+jets, and missing transverse momentum in pp collisions at $\sqrt{s}=13$
+TeV**, *JHEP*. 03 (2018) 076,
+doi:[10.1007/s13130-018-7845-2](https://doi.org/10.1007/s13130-018-7845-2),
+arXiv:[1709.08908 \[hep-ex\]](http://arxiv.org/abs/1709.08908)
+
 []{#ref-Sirunyan:2017roi} A.M. Sirunyan et al., **Search for standard
 model production of four top quarks with same-sign and multilepton final
 states in proton--proton collisions at $\sqrt{s} = 13{TeV}$**, *Eur.
@@ -44,12 +51,6 @@ produced in proton--proton collisions at $\sqrt{s} = 13$${TeV}$**, *Eur.
 Phys. J.* C77 (2017) 710,
 doi:[10.1140/epjc/s10052-017-5267-x](https://doi.org/10.1140/epjc/s10052-017-5267-x),
 arXiv:[1705.04650 \[hep-ex\]](http://arxiv.org/abs/1705.04650)
-
-[]{#ref-Sirunyan:2017qaj} A.M. Sirunyan et al., **Search for new
-phenomena in final states with two opposite-charge, same-flavor leptons,
-jets, and missing transverse momentum in pp collisions at $\sqrt{s} =$
-13 TeV**, (2017), arXiv:[1709.08908
-\[hep-ex\]](http://arxiv.org/abs/1709.08908)
 
 []{#ref-Sirunyan:2017uyt} A.M. Sirunyan et al., **Search for physics
 beyond the standard model in events with two leptons of same sign,
