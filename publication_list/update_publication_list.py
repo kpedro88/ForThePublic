@@ -237,19 +237,22 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
     # update all keys in physics_db    
     tmp_list = []
     for key in physics_keys:
-        tmp_list.append(inspire_db.entries_dict[key])
+        if key in new_keys:
+            tmp_list.append(inspire_db.entries_dict[key])
     physics_db.entries = tmp_list
 
     # update all keys in computing_db
     tmp_list = []
     for key in computing_keys:
-        tmp_list.append(inspire_db.entries_dict[key])
+        if key in new_keys:
+            tmp_list.append(inspire_db.entries_dict[key])
     computing_db.entries = tmp_list
 
     # update all keys in experiment_db
     tmp_list = []
     for key in experiment_keys:
-        tmp_list.append(inspire_db.entries_dict[key])
+        if key in new_keys:
+            tmp_list.append(inspire_db.entries_dict[key])
     experiment_db.entries = tmp_list
         
     # consistency check
