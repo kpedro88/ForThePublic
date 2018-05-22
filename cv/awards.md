@@ -1,5 +1,3 @@
-## Scholarships and Awards
-
 | | |
 |:-|:----|
 | 2013 | CMS Young Researcher Prize |

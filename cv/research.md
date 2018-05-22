@@ -1,5 +1,3 @@
-## Research Positions
-
 | | | | 
 |:--|:-|:----|
 | **09/2014 - Present** | Scientist | Fermi National Accelerator Laboratory (Fermilab) |
