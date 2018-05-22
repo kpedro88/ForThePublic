@@ -194,6 +194,7 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 Full List of Physics Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf).
 
 Full List of Publications from all Collaborations and Experiments can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf).
+
 ---
 linkcolor: blue
 urlcolor: blue
@@ -252,6 +253,7 @@ arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 
 Full List of Computing Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf).
+
 ---
 linkcolor: blue
 urlcolor: blue
@@ -293,6 +295,7 @@ Innovations**, (2017), Talk at the Fermilab 50th Anniversary
 
 
 Full List of Talks can be found [here](https://github.com/gutsche/ForThePublic/raw/master/talk_list/talk_list.pdf).
+
 
 ---
 linkcolor: blue

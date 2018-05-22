@@ -25,7 +25,7 @@ logging.config.dictConfig({
          'default': {
              'level':'DEBUG',
              'formatter': 'standard',
-             'class':'logging.StreamHandler',    
+             'class':'logging.StreamHandler',
              },
           },
           'loggers': {
@@ -64,15 +64,15 @@ def inspire_get_number_of_records():
         number_of_records = int(re.sub(r'\D', '', comments[0]))
     except IndexError:
         number_of_records = 0
-        
-    print("OLI's publication list has %i records" % number_of_records)    
-    
+
+    print("OLI's publication list has %i records" % number_of_records)
+
     return number_of_records
-    
+
 def write_file(filename,input_string):
     with open(filename,'w') as output_file:
         output_file.write(input_string)
-    
+
 def inspire_get_bibtex(number_of_records):
     """
         get BiBTeX of all records
@@ -81,7 +81,7 @@ def inspire_get_bibtex(number_of_records):
     print("Querying Inspire for OLI's publication list records in BiBTeX format")
 
     db = BibDatabase()
-    
+
     nrecords = 250
     nsteps = int(number_of_records/nrecords) + 1
     for step in range(nsteps):
@@ -100,7 +100,7 @@ def inspire_get_bibtex(number_of_records):
             print "no records were found in SPIRES to match your search, please try again"
             print 'url:',url
             quit()
-            
+
         parser = BibTexParser()
         tmp_db = bibtexparser.loads(BiBTeX, parser=parser)
         for entry in tmp_db.entries:
@@ -123,7 +123,7 @@ def inspire_get_bibtex(number_of_records):
             entry['title'] = entry['title'].replace('\mathrm','')
             entry['title'] = entry['title'].replace('\mathit','')
             if 'doi' in entry.keys(): entry['doi'] = entry['doi'].split(',')[0].strip()
-            
+
             if 'eprint' in entry.keys():
                 eprint = entry['eprint']
                 prefix = 'arXiv'
@@ -134,7 +134,7 @@ def inspire_get_bibtex(number_of_records):
                 urltext = eprint + ' [' + primaryclass +']'
                 note = prefix + ':\\href{' + url + '}{' + urltext + '}'
                 entry['note'] = note
-            
+
         db.entries.extend(tmp_db.entries)
     print("OLI's publication db has: %i entries" % len(db.entries))
     return db
@@ -143,7 +143,7 @@ def write_bibtex_file(filename,db):
     """
         Write BiBTeX file with content from db
     """
-            
+
     writer = BibTexWriter()
     writer.order_entries_by = ('year','ID')
     with open(filename,'w') as output_file:
@@ -165,31 +165,31 @@ def load_bibtex_file(filename,create=False):
         bib_database = bibtexparser.load(bibtex_file)
     print("Loaded BiBTeX database from file '%s' with %i entries" % (filename,len(bib_database.entries)))
     return bib_database
-    
+
 def add_additional_records(db,filename):
     """
         load filename bibtex file of additional bibtex records not covered by complete Inspire query and add them to DB
     """
-    
+
     additional_db = load_bibtex_file(filename)
     db.entries.extend(additional_db.entries)
     print("Added %i additional entries not covered by complete Inspire query from filename '%s'" % (len(additional_db.entries),filename))
-    
+
 def update(inspire_db,physics_db,computing_db,experiment_db):
     """
-    
+
     update records in physics, computing and experiment BibTeX files with records from the inspire BibTeX file
     always use the record labels for comparisons
-    
+
     """
     new_keys = inspire_db.entries_dict.keys()
     physics_keys = physics_db.entries_dict.keys()
     computing_keys = computing_db.entries_dict.keys()
     experiment_keys = experiment_db.entries_dict.keys()
     missing_keys = []
-    
+
     go_quit = False
-    
+
     # which entries from physics_db have been deleted
     for key in physics_keys:
         if key not in new_keys:
@@ -207,7 +207,7 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
         if key not in new_keys:
             print("Experiment DB entry '%s' was deleted from inspire, remove manually" % key)
             go_quit = True
-            
+
     # which keys are new
     for key in new_keys:
         if key not in physics_keys and key not in computing_keys and key not in experiment_keys:
@@ -230,11 +230,11 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
         while key in experiment_keys:
             experiment_keys.remove(key)
 
-    # add new keys to experiment  
-    new_experiment_keys=[]
+    # add new keys to experiment
+    new_experiment_keys=['Sirunyan:2018omb','Sirunyan:2018omt','Sirunyan:2018qel','Sirunyan:2018pse','Sirunyan:2018toe','Sirunyan:2018gct','Sirunyan:2018xwt','Sirunyan:2018lcp','Sirunyan:2018gqx','Sirunyan:2018ldc','Sirunyan:2018mbx']
     experiment_keys.extend(new_experiment_keys)
 
-    # update all keys in physics_db    
+    # update all keys in physics_db
     tmp_list = []
     for key in physics_keys:
         if key in new_keys:
@@ -254,33 +254,33 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
         if key in new_keys:
             tmp_list.append(inspire_db.entries_dict[key])
     experiment_db.entries = tmp_list
-        
+
     # consistency check
     if len(inspire_db.entries) != len(physics_db.entries)+len(computing_db.entries)+len(experiment_db.entries):
         print("Inconsistency: physics %i + computing %i + experiment %i = sum %i is not the same as inspire %i" % (len(physics_db.entries),len(computing_db.entries),len(experiment_db.entries),len(physics_db.entries)+len(computing_db.entries)+len(experiment_db.entries),len(inspire_db.entries)))
         go_quit = True
-        
+
     return go_quit
-            
+
 def main(args):
     """
-    
+
     generate publication list for O.Gutsche
-    
-    Use Inspire query 
-    
+
+    Use Inspire query
+
     http://inspirehep.net/search?author:O.Gutsche.1 AND collection:citeable
-    
+
     and add additional records not covered by the query or read in BiBTeX file with the result of the query+additional records
-    
+
     Then distribute the publication list into three BiBTeX files:
-    
+
     1. physics: all physics publications with direct involvment from OLI
     2. computing: all computing publications with direct involvement from OLI
     3. experiment: all publications through membership in experiment collaborations without direct involvement from OLI
-    
+
     """
-        
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--verbose", action="store_true", help="Increase verbosity of program output")
     parser.add_argument("--input", action="store", default = None, help="Specify filename of complete Inspire records query in BibTeX format instead of querying Inspire.")
@@ -288,32 +288,34 @@ def main(args):
     parser.add_argument("--output", action="store", default = "complete_publication_list.bib", help="Output file name to store all records of complete Inspire query")
     parser.add_argument("--physics", action="store", default = "physics_publication_list.bib", help="Filename of physics publications with direct involvement")
     parser.add_argument("--computing", action="store", default = "computing_publication_list.bib", help="Filename of computing publications with direct involvement")
-    parser.add_argument("--experiment", action="store", default = "experiment_publication_list.bib", help="Filename of publications through membership in experiment collaborations")    
+    parser.add_argument("--experiment", action="store", default = "experiment_publication_list.bib", help="Filename of publications through membership in experiment collaborations")
     args = parser.parse_args()
-    
+
+    # how many entries are already tracked locally
+    physics_db = load_bibtex_file(args.physics, True)
+    computing_db = load_bibtex_file(args.computing, True)
+    experiment_db = load_bibtex_file(args.experiment, True)
+    print ("Locally tracking %i entries." % (len(physics_db.entries)+len(computing_db.entries)+len(experiment_db.entries)) )
+
     if args.input == None:
         number_of_records = inspire_get_number_of_records()
         inspire_db = inspire_get_bibtex(number_of_records)
         add_additional_records(inspire_db,args.additional)
     else:
         inspire_db = load_bibtex_file(args.input)
-        
-    physics_db = load_bibtex_file(args.physics, True)
-    computing_db = load_bibtex_file(args.computing, True)
-    experiment_db = load_bibtex_file(args.experiment, True)
-            
+
     go_quit = update(inspire_db,physics_db,computing_db,experiment_db)
-    
+
     # not optional, always write the output files
     write_bibtex_file(args.output,inspire_db)
-    
+
     if go_quit == True:
         print('Exiting before writing physics, computing and experiment bib files because of inconsistencies')
         quit()
-    
+
     write_bibtex_file(args.physics,physics_db)
     write_bibtex_file(args.computing,computing_db)
     write_bibtex_file(args.experiment,experiment_db)
-    
+
 if __name__ == '__main__':
     main(sys.argv)
