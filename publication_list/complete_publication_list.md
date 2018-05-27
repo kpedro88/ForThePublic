@@ -129,6 +129,13 @@ long-lived particles at $\sqrt{s} =$ 13 TeV**, *Phys. Lett.* B780 (2018)
 doi:[10.1016/j.physletb.2018.03.019](https://doi.org/10.1016/j.physletb.2018.03.019),
 arXiv:[1711.09120 \[hep-ex\]](http://arxiv.org/abs/1711.09120)
 
+[]{#ref-Sirunyan:2017jix} A.M. Sirunyan et al., **Search for new physics
+in final states with an energetic jet or a hadronically decaying $W$ or
+$Z$ boson and transverse momentum imbalance at
+$\sqrt{s}=13{ }{ }{TeV}$**, *Phys. Rev.* D97 (2018) 092005,
+doi:[10.1103/PhysRevD.97.092005](https://doi.org/10.1103/PhysRevD.97.092005),
+arXiv:[1712.02345 \[hep-ex\]](http://arxiv.org/abs/1712.02345)
+
 []{#ref-Sirunyan:2017jtu} A.M. Sirunyan et al., **Search for ZZ
 resonances in the 2 $\ell$2 $\nu$ final state in proton-proton
 collisions at 13 TeV**, *JHEP*. 03 (2018) 003,
@@ -471,6 +478,12 @@ lepton at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1803.02864
 []{#ref-Sirunyan:2018nqx} A.M. Sirunyan et al., **Measurement of the
 inelastic proton-proton cross section at $\sqrt{s}=$ 13 TeV**, (2018),
 arXiv:[1802.02613 \[hep-ex\]](http://arxiv.org/abs/1802.02613)
+
+[]{#ref-Sirunyan:2018nsz} A.M. Sirunyan et al., **Measurement of nuclear
+modification factors of $\Upsilon$(1S), $\Upsilon$(2S), and
+$\Upsilon$(3S) mesons in PbPb collisions at $\sqrt{s_{_{{NN}}}} =$ 5.02
+TeV**, (2018), arXiv:[1805.09215
+\[hep-ex\]](http://arxiv.org/abs/1805.09215)
 
 []{#ref-Sirunyan:2018omb} A.M. Sirunyan et al., **Search for vector-like
 T and B quark pairs in final states with leptons at $\sqrt{s} =$ 13
@@ -1194,11 +1207,6 @@ partners with charge 5/3 in proton-proton collisions at $\sqrt{s}=13$
 TeV**, *JHEP*. 08 (2017) 073,
 doi:[10.1007/JHEP08(2017)073](https://doi.org/10.1007/JHEP08(2017)073),
 arXiv:[1705.10967 \[hep-ex\]](http://arxiv.org/abs/1705.10967)
-
-[]{#ref-Sirunyan:2017jix} A.M. Sirunyan et al., **Search for new physics
-in final states with an energetic jet or a hadronically decaying W or Z
-boson and transverse momentum imbalance at $\sqrt{s} =$ 13 TeV**,
-(2017), arXiv:[1712.02345 \[hep-ex\]](http://arxiv.org/abs/1712.02345)
 
 []{#ref-Sirunyan:2017jnl} A.M. Sirunyan et al., **Azimuthal correlations
 for inclusive 2-jet, 3-jet, and 4-jet events in pp collisions at

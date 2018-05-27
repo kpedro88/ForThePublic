@@ -231,7 +231,7 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
             experiment_keys.remove(key)
 
     # add new keys to experiment
-    new_experiment_keys=['Sirunyan:2018omb','Sirunyan:2018omt','Sirunyan:2018qel','Sirunyan:2018pse','Sirunyan:2018toe','Sirunyan:2018gct','Sirunyan:2018xwt','Sirunyan:2018lcp','Sirunyan:2018gqx','Sirunyan:2018ldc','Sirunyan:2018mbx']
+    new_experiment_keys=[]
     experiment_keys.extend(new_experiment_keys)
 
     # update all keys in physics_db
