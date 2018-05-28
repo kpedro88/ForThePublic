@@ -1,3 +1,25 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+papersize: letter
+margin-left: .5in
+margin-right: .5in
+margin-top: .7in
+margin-bottom: .6in
+fontsize: 10pt
+title: "List of Presentation and Talks"
+author: "Oliver Gutsche"
+footer: true
+leftheader: ""
+centerheader: "List of Presentation and Talks of Oliver Gutsche"
+rightheader: ""
+leftfooter: "\\today"
+centerfooter: ""
+rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
+...
+
+
 []{#ref-Gutsche:2018aab} O. Gutsche, **The Future of Large Scale
 Scientific Computing**, (2018),
 [Colloquium](http://www.physics.umass.edu/events/2018-04-06-future-large-scale-scientific-computing)
@@ -223,3 +245,4 @@ conference for Computing in High Energy and Nuclear Physics 2006
 [(CHEP2006)](https://web.archive.org/web/20110316032638/http://www.tifr.res.in/~chep06/)
 in Mumbai, India,
 [(Material)](https://indico.cern.ch/event/408139/contributions/979650/attachments/815512/1117428/060215_chep_osg.pdf)
+

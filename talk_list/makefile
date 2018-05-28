@@ -1,21 +1,23 @@
 PANDOC = pandoc
 M4 = m4
-TEXFLG = --pdf-engine=xelatex --filter=pandoc-citeproc --standalone
+TAIL = tail
+CITEPROCTEXFLG = --pdf-engine=xelatex --filter=pandoc-citeproc --standalone
 PANFLG = --pdf-engine=xelatex --standalone
+PAN2FLG = --pdf-engine=xelatex --standalone -M date="`date "+%B %e, %Y"`" --template=latex_template.tex
 PDFS = talk_list.pdf short_talk_list.pdf
 
 .PHONY: clean all $(PDFS)
 
 all: $(PDFS)
 
-$(PDFS): 
+$(PDFS):
 	rm -f _tmp.tex _tmp1.md
-	$(PANDOC) $(TEXFLG) $(subst .pdf,_template.md,$@) -o _tmp.tex
+	$(PANDOC) $(CITEPROCTEXFLG) $(subst .pdf,_template_citeproc.md,$@) -o _tmp.tex
 	$(PANDOC) $(PANFLG) _tmp.tex -o _tmp1.md
-	$(M4) $(subst .pdf,_template_2.md,$@) > $(subst .pdf,.md,$@)
-	$(PANDOC) $(PANFLG) $(subst .pdf,.md,$@) -o $@
+	$(TAIL) -n +7 _tmp1.md > $(subst .pdf,.md,$@)
+	$(M4) $(subst .pdf,_template_resolved.md,$@) > $(subst .pdf,_resolved.md,$@)
+	$(PANDOC) $(PAN2FLG) $(subst .pdf,_resolved.md,$@) -o $@
 	rm -f _tmp.tex _tmp1.md
 	
 clean:
 	rm -f *.pdf *.out *.log *.aux _tmp.tex _tmp1.md _tmp2.md
-

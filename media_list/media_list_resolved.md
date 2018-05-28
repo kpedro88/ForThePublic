@@ -1,3 +1,25 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+papersize: letter
+margin-left: .5in
+margin-right: .5in
+margin-top: .7in
+margin-bottom: .6in
+fontsize: 10pt
+title: "List of Articles and Media Mentionings"
+author: "Oliver Gutsche"
+footer: true
+leftheader: ""
+centerheader: "List of Articles and Media Mentionings of Oliver Gutsche"
+rightheader: ""
+leftfooter: "\\today"
+centerfooter: ""
+rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
+...
+
+
 []{#ref-Gutsche:2017aac} A. Purcell, **Oliver Gutsche: Fermilab joins
 CERN openlab, works on data reduction project with CMS experiment**,
 (2017), Article in [CERN openlab News](http://openlab.cern/news),
@@ -60,3 +82,4 @@ Science Grid This Week (now Science Node)](https://sciencenode.org),
 Grid**, (2005), Article in [Symmetry
 Magazin](https://www.symmetrymagazine.org),
 [(Article)](https://www.symmetrymagazine.org/article/november-2005/meet-the-grid)
+
