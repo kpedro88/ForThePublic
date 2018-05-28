@@ -1,10 +1,6 @@
 | | |
-|:-|:-----|
-| **Name:** | Oliver Gutsche |
-| **Institute:** | Fermi National Accelerator Laboratory / Scientific Computing Division |
-| **Address:** | P.O. Box 500 / MS. 205, Batavia, IL, 60510 |
-| **Phone:** | +1-630-840-8909 |
-| **E-Mail:** | [gutsche@fnal.gov](mailto:gutsche@fnal.gov) |
-| **LinkedIn:**  | [www.linkedin.com/in/gutsche](www.linkedin.com/in/gutsche) |
-| **Inspire:** | [http://inspirehep.net/author/profile/O.Gutsche.1](http://inspirehep.net/author/profile/O.Gutsche.1) |
-| **ORCID ID:** | [https://orcid.org/0000-0002-8015-9622](https://orcid.org/0000-0002-8015-9622) |
+|:----|-:|
+| Oliver Gutsche                                                        | ![](letter.png){ height=10px } [gutsche@fnal.gov](mailto:gutsche@fnal.gov) |
+| Fermi National Accelerator Laboratory / Scientific Computing Division | ![](linkedin.png){ height=10px } [LinkedIn](https://www.linkedin.com/in/gutsche) |
+| P.O. Box 500 / MS. 205, Batavia, IL, 60510                            | ![](inspire.png){ height=10px } [InSpire](https://inspirehep.net/author/profile/O.Gutsche.1) |
+| +1-630-840-8909                                                       | ![](orcid.png){ height=10px } [ORCID](https://orcid.org/0000-0002-8015-9622) |
