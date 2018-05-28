@@ -1,18 +1,3 @@
----
-linkcolor: blue
-urlcolor: blue
-citecolor: blue
-...
-
-# Publications from all Collaborations and Experiments
-
-
----
----
-
-::: {#refs}
-:::
-
 []{#ref-Cms:2018het} A.M. Sirunyan et al., **Observation of
 proton-tagged, central (semi)exclusive production of high-mass lepton
 pairs in pp collisions at 13 TeV with the CMS-TOTEM precision proton
@@ -4920,4 +4905,3 @@ $^2$ charged current cross-sections in e $^-$p deep inelastic scattering
 at HERA**, *Phys. Lett.* B539 (2002) 197--217,
 doi:[10.1016/S0370-2693(02)03097-6](https://doi.org/10.1016/S0370-2693(02)03097-6),
 arXiv:[hep-ex/0205091 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0205091)
-

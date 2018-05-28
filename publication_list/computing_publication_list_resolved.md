@@ -1,3 +1,25 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+papersize: letter
+margin-left: .5in
+margin-right: .5in
+margin-top: .7in
+margin-bottom: .6in
+fontsize: 10pt
+title: "Computing Publications with Major Personal Contributions"
+author: "Oliver Gutsche"
+footer: true
+leftheader: ""
+centerheader: "Computing Publications with Major Personal Contributions of Oliver Gutsche"
+rightheader: ""
+leftfooter: "\\today"
+centerfooter: ""
+rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
+...
+
+
 []{#ref-Bauerdick:2018qjx} L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
@@ -160,3 +182,9 @@ CRAB**, *PoS*. ACAT (2007) 020
 []{#ref-Kind:2003xz} O. Kind et al., **A ROOT based client server event
 display for the ZEUS experiment**, *eConf*. C0303241 (2003) MOLT002,
 arXiv:[hep-ex/0305095 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0305095)
+
+
+----------
+
+* Full List of Physics Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf).
+* Full List of Publications from all Collaborations and Experiments can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf).

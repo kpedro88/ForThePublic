@@ -1,3 +1,25 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+papersize: letter
+margin-left: .5in
+margin-right: .5in
+margin-top: .7in
+margin-bottom: .6in
+fontsize: 10pt
+title: "Computing Publications with Major Personal Contributions"
+author: "Oliver Gutsche"
+footer: true
+leftheader: ""
+centerheader: "Computing Publications with Major Personal Contributions of Oliver Gutsche"
+rightheader: ""
+leftfooter: "\\today"
+centerfooter: ""
+rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
+...
+
+
 []{#ref-Bauerdick:2018qjx} L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
@@ -38,3 +60,10 @@ doi:[10.1088/1742-6596/664/1/012001](https://doi.org/10.1088/1742-6596/664/1/012
 for Computational Excellence: Working Group Reports (I. Applications
 Software II. Software Libraries and Tools III. Systems)**, (2015),
 arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
+
+
+----------
+
+* Full List of Physics Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf).
+* Full List of Computing Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf).
+* Full List of Publications from all Collaborations and Experiments can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf).

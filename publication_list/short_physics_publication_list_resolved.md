@@ -1,3 +1,25 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+papersize: letter
+margin-left: .5in
+margin-right: .5in
+margin-top: .7in
+margin-bottom: .6in
+fontsize: 10pt
+title: "Physics Publications with Major Personal Contributions"
+author: "Oliver Gutsche"
+footer: true
+leftheader: ""
+centerheader: "Physics Publications with Major Personal Contributions of Oliver Gutsche"
+rightheader: ""
+leftfooter: "\\today"
+centerfooter: ""
+rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
+...
+
+
 []{#ref-Sirunyan:2018gka} A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
 transverse momentum at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1801.08427
@@ -34,3 +56,10 @@ boson at a mass of 125 GeV with the CMS experiment at the LHC**, *Phys.
 Lett.* B716 (2012) 30--61,
 doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.021),
 arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
+
+
+----------
+
+* Full List of Physics Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf).
+* Full List of Computing Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf).
+* Full List of Publications from all Collaborations and Experiments can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf).

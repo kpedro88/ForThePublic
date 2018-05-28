@@ -1,3 +1,25 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+papersize: letter
+margin-left: .5in
+margin-right: .5in
+margin-top: .7in
+margin-bottom: .6in
+fontsize: 10pt
+title: "Physics Publications with Major Personal Contributions"
+author: "Oliver Gutsche"
+footer: true
+leftheader: ""
+centerheader: "Physics Publications with Major Personal Contributions of Oliver Gutsche"
+rightheader: ""
+leftfooter: "\\today"
+centerfooter: ""
+rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
+...
+
+
 []{#ref-Sirunyan:2017qaj} A.M. Sirunyan et al., **Search for new
 phenomena in final states with two opposite-charge, same-flavor leptons,
 jets, and missing transverse momentum in pp collisions at $\sqrt{s}=13$
@@ -297,3 +319,9 @@ doi:[10.3204/DESY-THESIS-2005-010](https://doi.org/10.3204/DESY-THESIS-2005-010)
 []{#ref-Gutsche:2001yq} O. Gutsche, **Development of the trigger
 algorithm for the MONOLITH experiment**, (2001), DESY report:
 [DESY-THESIS-2001-020](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020)
+
+
+----------
+
+* Full List of Computing Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf).
+* Full List of Publications from all Collaborations and Experiments can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf).

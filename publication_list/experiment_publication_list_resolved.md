@@ -1,7 +1,24 @@
-[]{#ref-Bauerdick:2018qjx} L. Bauerdick et al., **HEP Software
-Foundation Community White Paper Working Group - Data Analysis and
-Interpretation**, (2018), arXiv:[1804.03983
-\[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+papersize: letter
+margin-left: .5in
+margin-right: .5in
+margin-top: .7in
+margin-bottom: .6in
+fontsize: 10pt
+title: "Publication List from all Collaborations and Experiments"
+author: "Oliver Gutsche"
+footer: true
+leftheader: ""
+centerheader: "Publication List from all Collaborations and Experiments of Oliver Gutsche"
+rightheader: ""
+leftfooter: "\\today"
+centerfooter: ""
+rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
+...
+
 
 []{#ref-Cms:2018het} A.M. Sirunyan et al., **Observation of
 proton-tagged, central (semi)exclusive production of high-mass lepton
@@ -243,13 +260,6 @@ $\sqrt{s} =$ 8 TeV**, *Eur. Phys. J.* C78 (2018) 287,
 doi:[10.1140/epjc/s10052-018-5752-x](https://doi.org/10.1140/epjc/s10052-018-5752-x),
 arXiv:[1711.02143 \[hep-ex\]](http://arxiv.org/abs/1711.02143)
 
-[]{#ref-Sirunyan:2017qaj} A.M. Sirunyan et al., **Search for new
-phenomena in final states with two opposite-charge, same-flavor leptons,
-jets, and missing transverse momentum in pp collisions at $\sqrt{s}=13$
-TeV**, *JHEP*. 03 (2018) 076,
-doi:[10.1007/s13130-018-7845-2](https://doi.org/10.1007/s13130-018-7845-2),
-arXiv:[1709.08908 \[hep-ex\]](http://arxiv.org/abs/1709.08908)
-
 []{#ref-Sirunyan:2017qdw} A.M. Sirunyan et al., **Measurement of
 quarkonium production cross sections in pp collisions at $\sqrt{s}=$ 13
 TeV**, *Phys. Lett.* B780 (2018) 251--272,
@@ -282,13 +292,6 @@ same-sign lepton final state in proton-proton collisions at $\sqrt{s} =$
 13 TeV**, *Phys. Rev. Lett.* 120 (2018) 081801,
 doi:[10.1103/PhysRevLett.120.081801](https://doi.org/10.1103/PhysRevLett.120.081801),
 arXiv:[1709.05822 \[hep-ex\]](http://arxiv.org/abs/1709.05822)
-
-[]{#ref-Sirunyan:2017roi} A.M. Sirunyan et al., **Search for standard
-model production of four top quarks with same-sign and multilepton final
-states in proton--proton collisions at $\sqrt{s} = 13{TeV}$**, *Eur.
-Phys. J.* C78 (2018) 140,
-doi:[10.1140/epjc/s10052-018-5607-5](https://doi.org/10.1140/epjc/s10052-018-5607-5),
-arXiv:[1710.10614 \[hep-ex\]](http://arxiv.org/abs/1710.10614)
 
 []{#ref-Sirunyan:2017snr} A.M. Sirunyan et al., **Measurements of
 $t\bar{t}$ cross sections in association with $b$ jets and inclusive
@@ -375,11 +378,6 @@ $\sqrt{s}=$ 13 TeV**, *Submitted to: JINST*. (2018), arXiv:[1804.04528
 groomed jet mass in PbPb and pp collisions at $\sqrt{s_{_{{NN}}}} =$
 5.02 TeV**, (2018), arXiv:[1805.05145
 \[hep-ex\]](http://arxiv.org/abs/1805.05145)
-
-[]{#ref-Sirunyan:2018gka} A.M. Sirunyan et al., **Search for dark matter
-in events with energetic, hadronically decaying top quarks and missing
-transverse momentum at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1801.08427
-\[hep-ex\]](http://arxiv.org/abs/1801.08427)
 
 []{#ref-Sirunyan:2018gqx} A.M. Sirunyan et al., **Measurement of the top
 quark mass with lepton+jets final states using pp collisions at
@@ -586,44 +584,11 @@ neutral MSSM Higgs bosons in the $\tau\tau$ final state in proton-proton
 collisions at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1803.06553
 \[hep-ex\]](http://arxiv.org/abs/1803.06553)
 
-[]{#ref-Alves:2017she} A.A. Alves Jr et al., **A Roadmap for HEP
-Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
-\[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
-
-[]{#ref-Bauerdick:2017leo} L. Bauerdick et al., **Experience in using
-commercial clouds in CMS**, *J. Phys. Conf. Ser.* 898 (2017) 052019,
-doi:[10.1088/1742-6596/898/5/052019](https://doi.org/10.1088/1742-6596/898/5/052019)
-
 []{#ref-Chatrchyan:2016mqq} S. Chatrchyan et al., **Measurement of the
 mass difference between top quark and antiquark in pp collisions at
 $\sqrt{s} = 8$ TeV**, *Phys. Lett.* B770 (2017) 50--71,
 doi:[10.1016/j.physletb.2017.04.028](https://doi.org/10.1016/j.physletb.2017.04.028),
 arXiv:[1610.09551 \[hep-ex\]](http://arxiv.org/abs/1610.09551)
-
-[]{#ref-Gutsche:2016rwv} O. Gutsche, **Dark Matter and Super Symmetry:
-Exploring and Explaining the Universe with Simulations at the LHC**, in:
-**Proceedings, Winter Simulation Conference: Simulating Complex Service
-Systems (WSC 16): Washington, D.C., United States, December 11-14,
-2016**, 2017: pp. 4--13,
-doi:[10.1109/WSC.2016.7822075](https://doi.org/10.1109/WSC.2016.7822075)
-
-[]{#ref-Gutsche:2017ccj} O. Gutsche et al., **CMS Analysis and Data
-Reduction with Apache Spark**, in: **18th International Workshop on
-Advanced Computing and Analysis Techniques in Physics Research (ACAT
-2017) Seattle, WA, USA, August 21-25, 2017**, 2017.
-<http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-465-cd.pdf>,
-arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
-
-[]{#ref-Gutsche:2017weq} O. Gutsche et al., **Big Data in HEP: A
-comprehensive use case study**, *J. Phys. Conf. Ser.* 898 (2017) 072012,
-doi:[10.1088/1742-6596/898/7/072012](https://doi.org/10.1088/1742-6596/898/7/072012),
-arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
-
-[]{#ref-Holzman:2017jgg} B. Holzman et al., **HEPCloud, a New Paradigm
-for HEP Facilities: CMS Amazon Web Services Investigation**, *Comput.
-Softw. Big Sci.* 1 (2017) 1,
-doi:[10.1007/s41781-017-0001-9](https://doi.org/10.1007/s41781-017-0001-9),
-arXiv:[1710.00100 \[cs.DC\]](http://arxiv.org/abs/1710.00100)
 
 []{#ref-Khachatryan:2016atv} V. Khachatryan et al., **Search for top
 quark decays via Higgs-boson-mediated flavor-changing neutral currents
@@ -1009,12 +974,6 @@ boson using boosted topologies in fully hadronic final states**, *JHEP*.
 doi:[10.1007/JHEP04(2017)136](https://doi.org/10.1007/JHEP04(2017)136),
 arXiv:[1612.05336 \[hep-ex\]](http://arxiv.org/abs/1612.05336)
 
-[]{#ref-Sirunyan:2016jpr} A.M. Sirunyan et al., **Searches for pair
-production of third-generation squarks in $\sqrt{s}=13$${TeV}$ pp
-collisions**, *Eur. Phys. J.* C77 (2017) 327,
-doi:[10.1140/epjc/s10052-017-4853-2](https://doi.org/10.1140/epjc/s10052-017-4853-2),
-arXiv:[1612.03877 \[hep-ex\]](http://arxiv.org/abs/1612.03877)
-
 []{#ref-Sirunyan:2016wqt} A.M. Sirunyan et al., **Search for high-mass
 ${ Z }\gamma$ resonances in proton-proton collisions at $\sqrt{s}=$ 8
 and 13 TeV using jet substructure techniques**, *Phys. Lett.* B772
@@ -1205,13 +1164,6 @@ flavour-changing interactions in pp collisions at $\sqrt{s}=8$ TeV**,
 doi:[10.1007/JHEP07(2017)003](https://doi.org/10.1007/JHEP07(2017)003),
 arXiv:[1702.01404 \[hep-ex\]](http://arxiv.org/abs/1702.01404)
 
-[]{#ref-Sirunyan:2017kqq} A.M. Sirunyan et al., **Search for new
-phenomena with the $M_{{T2}}$ variable in the all-hadronic final state
-produced in proton--proton collisions at $\sqrt{s} = 13$${TeV}$**, *Eur.
-Phys. J.* C77 (2017) 710,
-doi:[10.1140/epjc/s10052-017-5267-x](https://doi.org/10.1140/epjc/s10052-017-5267-x),
-arXiv:[1705.04650 \[hep-ex\]](http://arxiv.org/abs/1705.04650)
-
 []{#ref-Sirunyan:2017lvq} A.M. Sirunyan et al., **Measurements of the pp
 $\to W\gamma\gamma$ and pp $\to Z\gamma\gamma$ cross sections and limits
 on anomalous quartic gauge couplings at $\sqrt{s}=8$ TeV**, *JHEP*. 10
@@ -1376,13 +1328,6 @@ pp collisions at $\sqrt{s}=8$ TeV**, *JHEP*. 11 (2017) 010,
 doi:[10.1007/JHEP11(2017)010](https://doi.org/10.1007/JHEP11(2017)010),
 arXiv:[1707.07283 \[hep-ex\]](http://arxiv.org/abs/1707.07283)
 
-[]{#ref-Sirunyan:2017uyt} A.M. Sirunyan et al., **Search for physics
-beyond the standard model in events with two leptons of same sign,
-missing transverse momentum, and jets in proton--proton collisions at
-$\sqrt{s} = 13{TeV}$**, *Eur. Phys. J.* C77 (2017) 578,
-doi:[10.1140/epjc/s10052-017-5079-z](https://doi.org/10.1140/epjc/s10052-017-5079-z),
-arXiv:[1704.07323 \[hep-ex\]](http://arxiv.org/abs/1704.07323)
-
 []{#ref-Sirunyan:2017uzs} A.M. Sirunyan et al., **Measurement of the
 cross section for top quark pair production in association with a W or Z
 boson in proton-proton collisions at $\sqrt{s} =$ 13 TeV**, (2017),
@@ -1432,12 +1377,6 @@ quarks at $\sqrt{s}=13$ TeV**, *Phys. Lett.* B775 (2017) 315--337,
 doi:[10.1016/j.physletb.2017.11.001](https://doi.org/10.1016/j.physletb.2017.11.001),
 arXiv:[1706.08578 \[hep-ex\]](http://arxiv.org/abs/1706.08578)
 
-[]{#ref-Sirunyan:2017xse} A.M. Sirunyan et al., **Search for top squark
-pair production in pp collisions at $\sqrt{s}=13$ TeV using single
-lepton events**, *JHEP*. 10 (2017) 019,
-doi:[10.1007/JHEP10(2017)019](https://doi.org/10.1007/JHEP10(2017)019),
-arXiv:[1706.04402 \[hep-ex\]](http://arxiv.org/abs/1706.04402)
-
 []{#ref-Sirunyan:2017xss} A.M. Sirunyan et al., **Nuclear modification
 factor of D0 mesons in PbPb collisions at sqrt(s\[NN\]) = 5.02 TeV**,
 (2017), arXiv:[1708.04962 \[nucl-ex\]](http://arxiv.org/abs/1708.04962)
@@ -1479,12 +1418,6 @@ $\sqrt{s}=13$ TeV**, *Phys. Rev.* D96 (2017) 112003,
 doi:[10.1103/PhysRevD.96.112003](https://doi.org/10.1103/PhysRevD.96.112003),
 arXiv:[1706.10194 \[hep-ex\]](http://arxiv.org/abs/1706.10194)
 
-[]{#ref-Sirunyan:2017zss} A.M. Sirunyan et al., **Search for electroweak
-production of charginos and neutralinos in WH events in proton-proton
-collisions at $\sqrt{s}=13$ TeV**, *JHEP*. 11 (2017) 029,
-doi:[10.1007/JHEP11(2017)029](https://doi.org/10.1007/JHEP11(2017)029),
-arXiv:[1706.09933 \[hep-ex\]](http://arxiv.org/abs/1706.09933)
-
 []{#ref-CMS:2015loa} V. Khachatryan et al., **Search for supersymmetry
 in events with a photon, a lepton, and missing transverse momentum in pp
 collisions at $\sqrt s=$ 8 TeV**, *Phys. Lett.* B757 (2016) 6--31,
@@ -1496,10 +1429,6 @@ Higgs bosons decaying to $\mu^{+} \mu^{-}$ in pp collisions at
 $\sqrt{s} =$ 7 and 8 TeV**, *Phys. Lett.* B752 (2016) 221--246,
 doi:[10.1016/j.physletb.2015.11.042](https://doi.org/10.1016/j.physletb.2015.11.042),
 arXiv:[1508.01437 \[hep-ex\]](http://arxiv.org/abs/1508.01437)
-
-[]{#ref-Habib:2016sce} S. Habib et al., **ASCR/HEP Exascale Requirements
-Review Report**, (2016), arXiv:[1603.09303
-\[physics.comp-ph\]](http://arxiv.org/abs/1603.09303)
 
 []{#ref-Khachatryan:2014rwa} V. Khachatryan et al., **Search for new
 phenomena in monophoton final states in proton-proton collisions at
@@ -1712,13 +1641,6 @@ leptons in proton-proton collisions at sqrt(s) = 8 TeV**, *JHEP*. 03
 doi:[10.1007/JHEP03(2016)125](https://doi.org/10.1007/JHEP03(2016)125),
 arXiv:[1511.01407 \[hep-ex\]](http://arxiv.org/abs/1511.01407)
 
-[]{#ref-Khachatryan:2015sga} V. Khachatryan et al., **Measurement of the
-${{{W} }^{+} }{W}^{-}$ cross section in pp collisions at $\sqrt{s} =$ 8
-TeV and limits on anomalous gauge couplings**, *Eur. Phys. J.* C76
-(2016) 401,
-doi:[10.1140/epjc/s10052-016-4219-1](https://doi.org/10.1140/epjc/s10052-016-4219-1),
-arXiv:[1507.03268 \[hep-ex\]](http://arxiv.org/abs/1507.03268)
-
 []{#ref-Khachatryan:2015sha} V. Khachatryan et al., **Observation of top
 quark pairs produced in association with a vector boson in pp collisions
 at $\sqrt{s}=8$ TeV**, *JHEP*. 01 (2016) 096,
@@ -1838,13 +1760,6 @@ $+$ jets final states produced in pp collisions at $\sqrt s=$ 8TeV**,
 doi:[10.1016/j.physletb.2016.10.007](https://doi.org/10.1016/j.physletb.2016.10.007),
 arXiv:[1605.09047 \[hep-ex\]](http://arxiv.org/abs/1605.09047)
 
-[]{#ref-Khachatryan:2016fll} V. Khachatryan et al., **Search for new
-physics in final states with two opposite-sign, same-flavor leptons,
-jets, and missing transverse momentum in pp collisions at sqrt(s) = 13
-TeV**, *JHEP*. 12 (2016) 013,
-doi:[10.1007/JHEP12(2016)013](https://doi.org/10.1007/JHEP12(2016)013),
-arXiv:[1607.00915 \[hep-ex\]](http://arxiv.org/abs/1607.00915)
-
 []{#ref-Khachatryan:2016gxp} V. Khachatryan et al., **Measurement of the
 integrated and differential $t \bar t$ production cross sections for
 high- $p_t$ top quarks in $pp$ collisions at $\sqrt s =$ 8 TeV**, *Phys.
@@ -1883,12 +1798,6 @@ supersymmetry in the multijet and missing transverse momentum final
 state in pp collisions at 13 TeV**, *Phys. Lett.* B758 (2016) 152--180,
 doi:[10.1016/j.physletb.2016.05.002](https://doi.org/10.1016/j.physletb.2016.05.002),
 arXiv:[1602.06581 \[hep-ex\]](http://arxiv.org/abs/1602.06581)
-
-[]{#ref-Khachatryan:2016kod} V. Khachatryan et al., **Search for new
-physics in same-sign dilepton events in proton--proton collisions at
-$\sqrt{s} = 13{TeV}$**, *Eur. Phys. J.* C76 (2016) 439,
-doi:[10.1140/epjc/s10052-016-4261-z](https://doi.org/10.1140/epjc/s10052-016-4261-z),
-arXiv:[1605.03171 \[hep-ex\]](http://arxiv.org/abs/1605.03171)
 
 []{#ref-Khachatryan:2016mdm} V. Khachatryan et al., **Search for dark
 matter in proton-proton collisions at 8 TeV with missing transverse
@@ -2064,19 +1973,6 @@ $\sqrt{s_{_{{NN}}}} =$ 5.02 TeV**, *Eur. Phys. J.* C76 (2016) 372,
 doi:[10.1140/epjc/s10052-016-4205-7](https://doi.org/10.1140/epjc/s10052-016-4205-7),
 arXiv:[1601.02001 \[nucl-ex\]](http://arxiv.org/abs/1601.02001)
 
-[]{#ref-Khachatryan:2016xvy} V. Khachatryan et al., **Search for new
-physics with the M $_{T2}$ variable in all-jets final states produced in
-pp collisions at $\sqrt{s}=13$ TeV**, *JHEP*. 10 (2016) 006,
-doi:[10.1007/JHEP10(2016)006](https://doi.org/10.1007/JHEP10(2016)006),
-arXiv:[1603.04053 \[hep-ex\]](http://arxiv.org/abs/1603.04053)
-
-[]{#ref-Khachatryan:2016xws} V. Khachatryan et al., **Measurements of t
-t-bar spin correlations and top quark polarization using dilepton final
-states in pp collisions at sqrt(s) = 8 TeV**, *Phys. Rev.* D93 (2016)
-052007,
-doi:[10.1103/PhysRevD.93.052007](https://doi.org/10.1103/PhysRevD.93.052007),
-arXiv:[1601.01107 \[hep-ex\]](http://arxiv.org/abs/1601.01107)
-
 []{#ref-Khachatryan:2016ycy} V. Khachatryan et al., **Search for
 R-parity violating decays of a top squark in proton-proton collisions at
 $\sqrt{s}$ = 8 TeV**, *Phys. Lett.* B760 (2016) 178--201,
@@ -2097,12 +1993,6 @@ couplings**, *Phys. Lett.* B760 (2016) 448--468,
 doi:[10.1016/j.physletb.2016.06.080](https://doi.org/10.1016/j.physletb.2016.06.080),
 arXiv:[1602.07152 \[hep-ex\]](http://arxiv.org/abs/1602.07152)
 
-[]{#ref-Khachatryan:2016ysn} V. Khachatryan et al., **Measurements of
-$t \bar t$ charge asymmetry using dilepton final states in pp collisions
-at $\sqrt s=8$ TeV**, *Phys. Lett.* B760 (2016) 365--386,
-doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006),
-arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
-
 []{#ref-Khachatryan:2016yte} V. Khachatryan et al., **Forward--backward
 asymmetry of Drell--Yan lepton pairs in pp collisions at
 $\sqrt{s} = 8$${TeV}$**, *Eur. Phys. J.* C76 (2016) 325,
@@ -2121,20 +2011,6 @@ Boson Mass in $pp$ Collisions at $\sqrt{s}=7$ and 8 TeV with the ATLAS
 and CMS Experiments**, *Phys. Rev. Lett.* 114 (2015) 191803,
 doi:[10.1103/PhysRevLett.114.191803](https://doi.org/10.1103/PhysRevLett.114.191803),
 arXiv:[1503.07589 \[hep-ex\]](http://arxiv.org/abs/1503.07589)
-
-[]{#ref-Apyan:2015wsa} A. Apyan et al., **Pooling the resources of the
-CMS Tier-1 sites**, *J. Phys. Conf. Ser.* 664 (2015) 042056,
-doi:[10.1088/1742-6596/664/4/042056](https://doi.org/10.1088/1742-6596/664/4/042056)
-
-[]{#ref-Balcas:2015rbw} J. Balcas et al., **Using the GlideinWMS System
-as a Common Resource Provisioning Layer in CMS**, *J. Phys. Conf. Ser.*
-664 (2015) 062031,
-doi:[10.1088/1742-6596/664/6/062031](https://doi.org/10.1088/1742-6596/664/6/062031)
-
-[]{#ref-Balcas:2015ydb} J. Balcas et al., **Pushing HTCondor and
-glideinWMS to 200K+ Jobs in a Global Pool for CMS before Run 2**, *J.
-Phys. Conf. Ser.* 664 (2015) 062030,
-doi:[10.1088/1742-6596/664/6/062030](https://doi.org/10.1088/1742-6596/664/6/062030)
 
 []{#ref-Chatrchyan:2014csa} S. Chatrchyan et al., **Study of Z
 production in PbPb and pp collisions at $\sqrt{s_{{NN}}}=2.76$ TeV in
@@ -2193,12 +2069,6 @@ Collisions at $\sqrt{s} =$ 8 TeV**, *Phys. Rev.* D91 (2015) 012007,
 doi:[10.1103/PhysRevD.91.012007](https://doi.org/10.1103/PhysRevD.91.012007),
 arXiv:[1411.6530 \[hep-ex\]](http://arxiv.org/abs/1411.6530)
 
-[]{#ref-CMS:2014xfa} V. Khachatryan et al., **Observation of the rare
-$B^0_s\to\mu^+\mu^-$ decay from the combined analysis of CMS and LHCb
-data**, *Nature*. 522 (2015) 68--72,
-doi:[10.1038/nature14474](https://doi.org/10.1038/nature14474),
-arXiv:[1411.4413 \[hep-ex\]](http://arxiv.org/abs/1411.4413)
-
 []{#ref-CMS:2014xja} V. Khachatryan et al., **Measurement of the
 $pp \to ZZ$ production cross section and constraints on anomalous triple
 gauge couplings in four-lepton final states at $\sqrt s=$ 8 TeV**,
@@ -2212,20 +2082,6 @@ $\sigma_{{t \bar{t} b \bar{b}}} / \sigma_{{t \bar{t}  jj }}$ in pp
 collisions at $\sqrt{s}$ = 8 TeV**, *Phys. Lett.* B746 (2015) 132--153,
 doi:[10.1016/j.physletb.2015.04.060](https://doi.org/10.1016/j.physletb.2015.04.060),
 arXiv:[1411.5621 \[hep-ex\]](http://arxiv.org/abs/1411.5621)
-
-[]{#ref-Fuess:2015ylt} C. Group et al., **Fermilab Computing at the
-Intensity Frontier**, *J. Phys. Conf. Ser.* 664 (2015) 032012,
-doi:[10.1088/1742-6596/664/3/032012](https://doi.org/10.1088/1742-6596/664/3/032012)
-
-[]{#ref-Garzoglio:2015ajq} G. Garzoglio et al., **Diversity in Computing
-Technologies and Strategies for Dynamic Resource Allocation**, *J. Phys.
-Conf. Ser.* 664 (2015) 012001,
-doi:[10.1088/1742-6596/664/1/012001](https://doi.org/10.1088/1742-6596/664/1/012001)
-
-[]{#ref-Habib:2015paq} T. LeCompte et al., **High Energy Physics Forum
-for Computational Excellence: Working Group Reports (I. Applications
-Software II. Software Libraries and Tools III. Systems)**, (2015),
-arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 []{#ref-Khachatryan:2014aep} V. Khachatryan et al., **Search for a
 standard model-like Higgs boson in the $μ^+μ^−$ and $e^+e^−$ decay
@@ -2312,12 +2168,6 @@ proton--proton collisions at $\sqrt{s} = 8$ TeV**, *Eur. Phys. J.* C75
 (2015) 235,
 doi:[10.1140/epjc/s10052-015-3451-4](https://doi.org/10.1140/epjc/s10052-015-3451-4),
 arXiv:[1408.3583 \[hep-ex\]](http://arxiv.org/abs/1408.3583)
-
-[]{#ref-Khachatryan:2014sta} V. Khachatryan et al., **Study of vector
-boson scattering and search for new physics in events with two same-sign
-leptons and two jets**, *Phys. Rev. Lett.* 114 (2015) 051801,
-doi:[10.1103/PhysRevLett.114.051801](https://doi.org/10.1103/PhysRevLett.114.051801),
-arXiv:[1410.6315 \[hep-ex\]](http://arxiv.org/abs/1410.6315)
 
 []{#ref-Khachatryan:2014tva} V. Khachatryan et al., **Search for physics
 beyond the standard model in final states with a lepton and missing
@@ -2502,13 +2352,6 @@ charged particles in proton-proton collisions at sqrt(s) = 8 TeV**,
 doi:[10.1140/epjc/s10052-015-3533-3](https://doi.org/10.1140/epjc/s10052-015-3533-3),
 arXiv:[1502.02522 \[hep-ex\]](http://arxiv.org/abs/1502.02522)
 
-[]{#ref-Khachatryan:2015lwa} V. Khachatryan et al., **Search for Physics
-Beyond the Standard Model in Events with Two Leptons, Jets, and Missing
-Transverse Momentum in pp Collisions at sqrt(s) = 8 TeV**, *JHEP*. 04
-(2015) 124,
-doi:[10.1007/JHEP04(2015)124](https://doi.org/10.1007/JHEP04(2015)124),
-arXiv:[1502.06031 \[hep-ex\]](http://arxiv.org/abs/1502.06031)
-
 []{#ref-Khachatryan:2015mma} V. Khachatryan et al., **Limits on the
 Higgs boson lifetime and width from its decay to four charged leptons**,
 *Phys. Rev.* D92 (2015) 072010,
@@ -2655,20 +2498,6 @@ Decaying to a Z and a Higgs Boson**, *Phys. Lett.* B748 (2015) 255--277,
 doi:[10.1016/j.physletb.2015.07.011](https://doi.org/10.1016/j.physletb.2015.07.011),
 arXiv:[1502.04994 \[hep-ex\]](http://arxiv.org/abs/1502.04994)
 
-[]{#ref-Adelman:2013raa} J. Adelman et al., **CMS computing operations
-during run 1**, *J. Phys. Conf. Ser.* 513 (2014) 032040,
-doi:[10.1088/1742-6596/513/3/032040](https://doi.org/10.1088/1742-6596/513/3/032040)
-
-[]{#ref-Belforte:2014iba} S. Belforte et al., **Evolution of the pilot
-infrastructure of CMS: towards a single glideinWMS pool**, *J. Phys.
-Conf. Ser.* 513 (2014) 032041,
-doi:[10.1088/1742-6596/513/3/032041](https://doi.org/10.1088/1742-6596/513/3/032041)
-
-[]{#ref-Campana:2014kha} S. Campana et al., **Deployment of a WLCG
-network monitoring infrastructure based on the perfSONAR-PS
-technology**, *J. Phys. Conf. Ser.* 513 (2014) 062008,
-doi:[10.1088/1742-6596/513/6/062008](https://doi.org/10.1088/1742-6596/513/6/062008)
-
 []{#ref-Chatrchyan:2013bba} S. Chatrchyan et al., **Search for baryon
 number violation in top-quark decays**, *Phys. Lett.* B731 (2014)
 173--196,
@@ -2700,12 +2529,6 @@ collisions at $\sqrt{s}$ = 8 TeV**, *JHEP*. 02 (2014) 024,
 doi:[10.1007/JHEP02(2014)024](https://doi.org/10.1007/JHEP02(2014)024),
 arXiv:[1312.7582 \[hep-ex\]](http://arxiv.org/abs/1312.7582)
 
-[]{#ref-Chatrchyan:2013fea} S. Chatrchyan et al., **Search for new
-physics in events with same-sign dileptons and jets in pp collisions at
-$\sqrt{s}$ = 8 TeV**, *JHEP*. 01 (2014) 163,
-doi:[10.1007/JHEP01(2015)014](https://doi.org/10.1007/JHEP01(2015)014),
-arXiv:[1311.6736 \[hep-ex\]](http://arxiv.org/abs/1311.6736)
-
 []{#ref-Chatrchyan:2013fha} S. Chatrchyan et al., **Probing color
 coherence effects in pp collisions at $\sqrt{s}=7{TeV}$**, *Eur. Phys.
 J.* C74 (2014) 2901,
@@ -2731,12 +2554,6 @@ production cross section in pp collisions at $\sqrt{s}$ = 7 TeV**,
 *Phys. Lett.* B728 (2014) 496--517,
 doi:[10.1016/j.physletb.2014.08.040](https://doi.org/10.1016/j.physletb.2014.08.040),
 arXiv:[1307.1907 \[hep-ex\]](http://arxiv.org/abs/1307.1907)
-
-[]{#ref-Chatrchyan:2013iaa} S. Chatrchyan et al., **Measurement of Higgs
-boson production and properties in the WW decay channel with leptonic
-final states**, *JHEP*. 01 (2014) 096,
-doi:[10.1007/JHEP01(2014)096](https://doi.org/10.1007/JHEP01(2014)096),
-arXiv:[1312.1129 \[hep-ex\]](http://arxiv.org/abs/1312.1129)
 
 []{#ref-Chatrchyan:2013iqa} S. Chatrchyan et al., **Search for
 supersymmetry in pp collisions at $\sqrt{s}$=8 TeV in events with a
@@ -2829,13 +2646,6 @@ partners with charge 5/3 in the same-sign dilepton final state**, *Phys.
 Rev. Lett.* 112 (2014) 171801,
 doi:[10.1103/PhysRevLett.112.171801](https://doi.org/10.1103/PhysRevLett.112.171801),
 arXiv:[1312.2391 \[hep-ex\]](http://arxiv.org/abs/1312.2391)
-
-[]{#ref-Chatrchyan:2013wua} S. Chatrchyan et al., **Measurements of
-$t\bar{t}$ spin correlations and top-quark polarization using dilepton
-final states in $pp$ collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev.
-Lett.* 112 (2014) 182001,
-doi:[10.1103/PhysRevLett.112.182001](https://doi.org/10.1103/PhysRevLett.112.182001),
-arXiv:[1311.3924 \[hep-ex\]](http://arxiv.org/abs/1311.3924)
 
 []{#ref-Chatrchyan:2013xxa} S. Chatrchyan et al., **Study of double
 parton scattering using W + 2-jet events in proton-proton collisions at
@@ -2973,26 +2783,11 @@ tracker with LHC and cosmic ray data**, *JINST*. 9 (2014) P06009,
 doi:[10.1088/1748-0221/9/06/P06009](https://doi.org/10.1088/1748-0221/9/06/P06009),
 arXiv:[1403.2286 \[physics.ins-det\]](http://arxiv.org/abs/1403.2286)
 
-[]{#ref-Chatrchyan:2014yta} S. Chatrchyan et al., **Measurements of the
-$t\bar{t}$ charge asymmetry using the dilepton decay channel in pp
-collisions at $\sqrt{s} =$ 7 TeV**, *JHEP*. 04 (2014) 191,
-doi:[10.1007/JHEP04(2014)191](https://doi.org/10.1007/JHEP04(2014)191),
-arXiv:[1402.3803 \[hep-ex\]](http://arxiv.org/abs/1402.3803)
-
 []{#ref-CMS:2013bza} S. Chatrchyan et al., **Studies of azimuthal
 dihadron correlations in ultra-central PbPb collisions at
 $\sqrt{s_{NN}} =$ 2.76 TeV**, *JHEP*. 02 (2014) 088,
 doi:[10.1007/JHEP02(2014)088](https://doi.org/10.1007/JHEP02(2014)088),
 arXiv:[1312.1845 \[nucl-ex\]](http://arxiv.org/abs/1312.1845)
-
-[]{#ref-Cury:2014saa} S. Cury et al., **Event processing time prediction
-at the CMS experiment of the Large Hadron Collider**, *J. Phys. Conf.
-Ser.* 513 (2014) 032023,
-doi:[10.1088/1742-6596/513/3/032023](https://doi.org/10.1088/1742-6596/513/3/032023)
-
-[]{#ref-Dzhunov:2014xaa} I. Dzhunov et al., **Towards a centralized Grid
-Speedometer**, *J. Phys. Conf. Ser.* 513 (2014) 032028,
-doi:[10.1088/1742-6596/513/3/032028](https://doi.org/10.1088/1742-6596/513/3/032028)
 
 []{#ref-Khachatryan:2014aka} V. Khachatryan et al., **Search for excited
 quarks in the $\gamma +$jet final state in proton--proton collisions at
@@ -3011,18 +2806,6 @@ neutrinos and ${W}$ bosons with right-handed couplings in proton-proton
 collisions at $\sqrt{s} = 8{TeV}$**, *Eur. Phys. J.* C74 (2014) 3149,
 doi:[10.1140/epjc/s10052-014-3149-z](https://doi.org/10.1140/epjc/s10052-014-3149-z),
 arXiv:[1407.3683 \[hep-ex\]](http://arxiv.org/abs/1407.3683)
-
-[]{#ref-Khachatryan:2014doa} V. Khachatryan et al., **Search for
-top-squark pairs decaying into Higgs or Z bosons in pp collisions at
-$\sqrt{s}$=8 TeV**, *Phys. Lett.* B736 (2014) 371--397,
-doi:[10.1016/j.physletb.2014.07.053](https://doi.org/10.1016/j.physletb.2014.07.053),
-arXiv:[1405.3886 \[hep-ex\]](http://arxiv.org/abs/1405.3886)
-
-[]{#ref-Khachatryan:2014ewa} V. Khachatryan et al., **Measurement of top
-quark-antiquark pair production in association with a W or Z boson in pp
-collisions at $\sqrt{s} = 8$${TeV}$**, *Eur. Phys. J.* C74 (2014) 3060,
-doi:[10.1140/epjc/s10052-014-3060-7](https://doi.org/10.1140/epjc/s10052-014-3060-7),
-arXiv:[1406.7830 \[hep-ex\]](http://arxiv.org/abs/1406.7830)
 
 []{#ref-Khachatryan:2014gha} V. Khachatryan et al., **Search for massive
 resonances decaying into pairs of boosted bosons in semi-leptonic final
@@ -3081,13 +2864,6 @@ Lett.* B739 (2014) 23--43,
 doi:[10.1016/j.physletb.2014.10.032](https://doi.org/10.1016/j.physletb.2014.10.032),
 arXiv:[1407.6643 \[hep-ex\]](http://arxiv.org/abs/1407.6643)
 
-[]{#ref-Khachatryan:2014mma} V. Khachatryan et al., **Searches for
-electroweak neutralino and chargino production in channels with Higgs,
-Z, and W bosons in pp collisions at 8 TeV**, *Phys. Rev.* D90 (2014)
-092007,
-doi:[10.1103/PhysRevD.90.092007](https://doi.org/10.1103/PhysRevD.90.092007),
-arXiv:[1409.3168 \[hep-ex\]](http://arxiv.org/abs/1409.3168)
-
 []{#ref-Khachatryan:2014nda} V. Khachatryan et al., **Measurement of the
 ratio $\mathcal B(t \to Wb)/\mathcal B(t \to Wq)$ in pp collisions at
 $\sqrt{s}$ = 8 TeV**, *Phys. Lett.* B736 (2014) 33--57,
@@ -3099,13 +2875,6 @@ associated production of the Higgs boson with a top-quark pair**,
 *JHEP*. 09 (2014) 087,
 doi:[10.1007/JHEP09(2014)087](https://doi.org/10.1007/JHEP09(2014)087),
 arXiv:[1408.1682 \[hep-ex\]](http://arxiv.org/abs/1408.1682)
-
-[]{#ref-Khachatryan:2014qwa} V. Khachatryan et al., **Searches for
-electroweak production of charginos, neutralinos, and sleptons decaying
-to leptons and W, Z, and Higgs bosons in pp collisions at 8 TeV**, *Eur.
-Phys. J.* C74 (2014) 3036,
-doi:[10.1140/epjc/s10052-014-3036-7](https://doi.org/10.1140/epjc/s10052-014-3036-7),
-arXiv:[1405.7570 \[hep-ex\]](http://arxiv.org/abs/1405.7570)
 
 []{#ref-Khachatryan:2014sca} V. Khachatryan et al., **Search for
 Standard Model Production of Four Top Quarks in the Lepton + Jets
@@ -3137,15 +2906,6 @@ MSSM Higgs bosons decaying to a pair of tau leptons in pp collisions**,
 *JHEP*. 10 (2014) 160,
 doi:[10.1007/JHEP10(2014)160](https://doi.org/10.1007/JHEP10(2014)160),
 arXiv:[1408.3316 \[hep-ex\]](http://arxiv.org/abs/1408.3316)
-
-[]{#ref-Kreuzer:2014dia} P. Kreuzer et al., **Opportunistic Resource
-Usage in CMS**, *J. Phys. Conf. Ser.* 513 (2014) 062028,
-doi:[10.1088/1742-6596/513/6/062028](https://doi.org/10.1088/1742-6596/513/6/062028)
-
-[]{#ref-Sfiligoi:2014bda} I. Sfiligoi et al., **CMS experience of
-running glideinWMS in High Availability mode**, *J. Phys. Conf. Ser.*
-513 (2014) 032086,
-doi:[10.1088/1742-6596/513/3/032086](https://doi.org/10.1088/1742-6596/513/3/032086)
 
 []{#ref-Chatrchyan:2012af} S. Chatrchyan et al., **Search for heavy
 quarks decaying into a top quark and a $W$ or $Z$ boson using lepton +
@@ -3252,12 +3012,6 @@ $\sqrt{s}=8$ TeV**, *Phys. Lett.* B720 (2013) 63--82,
 doi:[10.1016/j.physletb.2013.02.003](https://doi.org/10.1016/j.physletb.2013.02.003),
 arXiv:[1212.6175 \[hep-ex\]](http://arxiv.org/abs/1212.6175)
 
-[]{#ref-Chatrchyan:2012paa} S. Chatrchyan et al., **Search for new
-physics in events with same-sign dileptons and $b$ jets in $pp$
-collisions at $\sqrt{s}=8$ TeV**, *JHEP*. 03 (2013) 037,
-doi:[10.1007/JHEP03(2013)037](https://doi.org/10.1007/JHEP03(2013)037),
-arXiv:[1212.6194 \[hep-ex\]](http://arxiv.org/abs/1212.6194)
-
 []{#ref-Chatrchyan:2012ria} S. Chatrchyan et al., **Measurement of the
 $t\bar{t}$ production cross section in $pp$ collisions at $\sqrt{s}=7$
 TeV with lepton + jets final states**, *Phys. Lett.* B720 (2013)
@@ -3302,13 +3056,6 @@ elliptic anisotropy of charged particles produced in PbPb collisions at
 $\sqrt{s}_{NN}$=2.76 TeV**, *Phys. Rev.* C87 (2013) 014902,
 doi:[10.1103/PhysRevC.87.014902](https://doi.org/10.1103/PhysRevC.87.014902),
 arXiv:[1204.1409 \[nucl-ex\]](http://arxiv.org/abs/1204.1409)
-
-[]{#ref-Chatrchyan:2012te} S. Chatrchyan et al., **Search for new
-physics in events with opposite-sign leptons, jets, and missing
-transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV**, *Phys.
-Lett.* B718 (2013) 815--840,
-doi:[10.1016/j.physletb.2012.11.036](https://doi.org/10.1016/j.physletb.2012.11.036),
-arXiv:[1206.3949 \[hep-ex\]](http://arxiv.org/abs/1206.3949)
 
 []{#ref-Chatrchyan:2012tw} S. Chatrchyan et al., **Search for anomalous
 production of highly boosted $Z$ bosons decaying to $\mu^+ \mu^-$ in
@@ -3532,12 +3279,6 @@ collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev.* D88 (2013) 112009,
 doi:[10.1103/PhysRevD.88.112009](https://doi.org/10.1103/PhysRevD.88.112009),
 arXiv:[1310.3082 \[hep-ex\]](http://arxiv.org/abs/1310.3082)
 
-[]{#ref-Chatrchyan:2013oev} S. Chatrchyan et al., **Measurement of W+W-
-and ZZ production cross sections in pp collisions at sqrt(s) = 8 TeV**,
-*Phys. Lett.* B721 (2013) 190--211,
-doi:[10.1016/j.physletb.2013.03.027](https://doi.org/10.1016/j.physletb.2013.03.027),
-arXiv:[1301.4698 \[hep-ex\]](http://arxiv.org/abs/1301.4698)
-
 []{#ref-Chatrchyan:2013qca} S. Chatrchyan et al., **Measurement of
 associated production of vector bosons and top quark-antiquark pairs at
 sqrt(s) = 7 TeV**, *Phys. Rev. Lett.* 110 (2013) 172002,
@@ -3632,12 +3373,6 @@ pp collisions at 8 TeV**, *Phys. Lett.* B725 (2013) 243--270,
 doi:[10.1016/j.physletb.2013.06.058](https://doi.org/10.1016/j.physletb.2013.06.058),
 arXiv:[1305.2390 \[hep-ex\]](http://arxiv.org/abs/1305.2390)
 
-[]{#ref-Chatrchyan:2013xna} S. Chatrchyan et al., **Search for
-top-squark pair production in the single-lepton final state in pp
-collisions at $\sqrt{s}$ = 8 TeV**, *Eur. Phys. J.* C73 (2013) 2677,
-doi:[10.1140/epjc/s10052-013-2677-2](https://doi.org/10.1140/epjc/s10052-013-2677-2),
-arXiv:[1308.1586 \[hep-ex\]](http://arxiv.org/abs/1308.1586)
-
 []{#ref-Chatrchyan:2013xsw} S. Chatrchyan et al., **Search for top
 squarks in $R$-parity-violating supersymmetry using three or more
 leptons and b-tagged jets**, *Phys. Rev. Lett.* 111 (2013) 221801,
@@ -3649,13 +3384,6 @@ microscopic black holes in pp collisions at sqrt(s) = 8 TeV**, *JHEP*.
 07 (2013) 178,
 doi:[10.1007/JHEP07(2013)178](https://doi.org/10.1007/JHEP07(2013)178),
 arXiv:[1303.5338 \[hep-ex\]](http://arxiv.org/abs/1303.5338)
-
-[]{#ref-Chatrchyan:2013yaa} S. Chatrchyan et al., **Measurement of the
-$W^+W^-$ Cross section in $pp$ Collisions at $\sqrt{s} = 7$ TeV and
-Limits on Anomalous $WW\gamma$ and $WWZ$ couplings**, *Eur. Phys. J.*
-C73 (2013) 2610,
-doi:[10.1140/epjc/s10052-013-2610-8](https://doi.org/10.1140/epjc/s10052-013-2610-8),
-arXiv:[1306.1126 \[hep-ex\]](http://arxiv.org/abs/1306.1126)
 
 []{#ref-Chatrchyan:2013yea} S. Chatrchyan et al., **Search for the
 standard model Higgs boson produced in association with a top-quark pair
@@ -3848,12 +3576,6 @@ the quarks of a sequential fourth generation**, *Phys. Rev.* D86 (2012)
 doi:[10.1103/PhysRevD.86.112003](https://doi.org/10.1103/PhysRevD.86.112003),
 arXiv:[1209.1062 \[hep-ex\]](http://arxiv.org/abs/1209.1062)
 
-[]{#ref-Chatrchyan:2012ft} S. Chatrchyan et al., **Search for the
-standard model Higgs boson in the $H$ to $Z Z$ to 2 $\ell 2 \nu$ channel
-in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 03 (2012) 040,
-doi:[10.1007/JHEP03(2012)040](https://doi.org/10.1007/JHEP03(2012)040),
-arXiv:[1202.3478 \[hep-ex\]](http://arxiv.org/abs/1202.3478)
-
 []{#ref-Chatrchyan:2012gw} S. Chatrchyan et al., **Measurement of jet
 fragmentation into charged particles in $pp$ and PbPb collisions at
 $\sqrt{s_{NN}}=2.76$ TeV**, *JHEP*. 10 (2012) 087,
@@ -3891,12 +3613,6 @@ physics with long-lived particles decaying to photons and missing energy
 in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 11 (2012) 172,
 doi:[10.1007/JHEP11(2012)172](https://doi.org/10.1007/JHEP11(2012)172),
 arXiv:[1207.0627 \[hep-ex\]](http://arxiv.org/abs/1207.0627)
-
-[]{#ref-Chatrchyan:2012ira} S. Chatrchyan et al., **Search for new
-physics with same-sign isolated dilepton events with jets and missing
-transverse energy**, *Phys. Rev. Lett.* 109 (2012) 071803,
-doi:[10.1103/PhysRevLett.109.071803](https://doi.org/10.1103/PhysRevLett.109.071803),
-arXiv:[1205.6615 \[hep-ex\]](http://arxiv.org/abs/1205.6615)
 
 []{#ref-Chatrchyan:2012it} S. Chatrchyan et al., **Search for narrow
 resonances in dilepton mass spectra in $pp$ collisions at $\sqrt{s}=7$
@@ -4008,25 +3724,12 @@ rapidity between jets in proton-proton collisions at $\sqrt{s}=7$ TeV**,
 doi:[10.1140/epjc/s10052-012-2216-6](https://doi.org/10.1140/epjc/s10052-012-2216-6),
 arXiv:[1204.0696 \[hep-ex\]](http://arxiv.org/abs/1204.0696)
 
-[]{#ref-Chatrchyan:2012pka} S. Chatrchyan et al., **Search for
-electroweak production of charginos and neutralinos using leptonic final
-states in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 11 (2012) 147,
-doi:[10.1007/JHEP11(2012)147](https://doi.org/10.1007/JHEP11(2012)147),
-arXiv:[1209.6620 \[hep-ex\]](http://arxiv.org/abs/1209.6620)
-
 []{#ref-Chatrchyan:2012qb} S. Chatrchyan et al., **Study of the
 inclusive production of charged pions, kaons, and protons in $pp$
 collisions at $\sqrt{s}=0.9$, 2.76, and 7 TeV**, *Eur. Phys. J.* C72
 (2012) 2164,
 doi:[10.1140/epjc/s10052-012-2164-1](https://doi.org/10.1140/epjc/s10052-012-2164-1),
 arXiv:[1207.4724 \[hep-ex\]](http://arxiv.org/abs/1207.4724)
-
-[]{#ref-Chatrchyan:2012qka} S. Chatrchyan et al., **Search for physics
-beyond the standard model in events with a $Z$ boson, jets, and missing
-transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV**, *Phys.
-Lett.* B716 (2012) 260--284,
-doi:[10.1016/j.physletb.2012.08.026](https://doi.org/10.1016/j.physletb.2012.08.026),
-arXiv:[1204.3774 \[hep-ex\]](http://arxiv.org/abs/1204.3774)
 
 []{#ref-Chatrchyan:2012qr} S. Chatrchyan et al., **Search for the
 standard model Higgs boson produced in association with $W$ and $Z$
@@ -4045,12 +3748,6 @@ $B^0_s \to \mu^+ \mu^-$ and $B^0 \to \mu^+ \mu^-$ decays**, *JHEP*. 04
 (2012) 033,
 doi:[10.1007/JHEP04(2012)033](https://doi.org/10.1007/JHEP04(2012)033),
 arXiv:[1203.3976 \[hep-ex\]](http://arxiv.org/abs/1203.3976)
-
-[]{#ref-Chatrchyan:2012sa} S. Chatrchyan et al., **Search for new
-physics in events with same-sign dileptons and $b$-tagged jets in $pp$
-collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 08 (2012) 110,
-doi:[10.1007/JHEP08(2012)110](https://doi.org/10.1007/JHEP08(2012)110),
-arXiv:[1205.3933 \[hep-ex\]](http://arxiv.org/abs/1205.3933)
 
 []{#ref-Chatrchyan:2012sn} S. Chatrchyan et al., **Search for a Higgs
 boson in the decay channel $H$ to ZZ(\*) to $q$ qbar $\ell^-$ l+ in $pp$
@@ -4119,13 +3816,6 @@ searches for the standard model Higgs boson in $pp$ collisions at
 $\sqrt{s}=7$ TeV**, *Phys. Lett.* B710 (2012) 26--48,
 doi:[10.1016/j.physletb.2012.02.064](https://doi.org/10.1016/j.physletb.2012.02.064),
 arXiv:[1202.1488 \[hep-ex\]](http://arxiv.org/abs/1202.1488)
-
-[]{#ref-Chatrchyan:2012ty} S. Chatrchyan et al., **Search for the
-standard model Higgs boson decaying to $W^+W^−$ in the fully leptonic
-final state in pp collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.* B710
-(2012) 91--113,
-doi:[10.1016/j.physletb.2012.02.076](https://doi.org/10.1016/j.physletb.2012.02.076),
-arXiv:[1202.1489 \[hep-ex\]](http://arxiv.org/abs/1202.1489)
 
 []{#ref-Chatrchyan:2012ub} S. Chatrchyan et al., **Measurement of the
 relative prompt production rate of chi(c2) and chi(c1) in $pp$
@@ -4207,12 +3897,6 @@ at $\sqrt{s}=7$ TeV**, *Phys. Lett.* B710 (2012) 284--306,
 doi:[10.1016/j.physletb.2012.02.085](https://doi.org/10.1016/j.physletb.2012.02.085),
 arXiv:[1202.4195 \[hep-ex\]](http://arxiv.org/abs/1202.4195)
 
-[]{#ref-Chatrchyan:2012xdj} S. Chatrchyan et al., **Observation of a new
-boson at a mass of 125 GeV with the CMS experiment at the LHC**, *Phys.
-Lett.* B716 (2012) 30--61,
-doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.021),
-arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
-
 []{#ref-Chatrchyan:2012xg} S. Chatrchyan et al., **Measurement of the
 $\Lambda_b$ cross section and the $_{\bar{\Lambda}_b}$ to $\Lambda_b$
 ratio with $J/\Psi \Lambda$ decays in $pp$ collisions at $\sqrt{s}=7$
@@ -4256,22 +3940,11 @@ P01001,
 doi:[10.1088/1748-0221/7/01/P01001](https://doi.org/10.1088/1748-0221/7/01/P01001),
 arXiv:[1109.6034 \[physics.ins-det\]](http://arxiv.org/abs/1109.6034)
 
-[]{#ref-Chwalek:2012vx} T. Chwalek et al., **No file left behind -
-monitoring transfer latencies in PhEDEx**, *J. Phys. Conf. Ser.* 396
-(2012) 032089,
-doi:[10.1088/1742-6596/396/3/032089](https://doi.org/10.1088/1742-6596/396/3/032089)
-
 []{#ref-CMS:2012aa} S. Chatrchyan et al., **Study of high-pT charged
 particle suppression in PbPb compared to $pp$ collisions at
 $\sqrt{s_{NN}}=2.76$ TeV**, *Eur. Phys. J.* C72 (2012) 1945,
 doi:[10.1140/epjc/s10052-012-1945-x](https://doi.org/10.1140/epjc/s10052-012-1945-x),
 arXiv:[1202.2554 \[nucl-ex\]](http://arxiv.org/abs/1202.2554)
-
-[]{#ref-CMS:2012ab} S. Chatrchyan et al., **Search for heavy, top-like
-quark pair production in the dilepton final state in $pp$ collisions at
-$\sqrt{s} = 7$ TeV**, *Phys. Lett.* B716 (2012) 103--121,
-doi:[10.1016/j.physletb.2012.07.059](https://doi.org/10.1016/j.physletb.2012.07.059),
-arXiv:[1203.5410 \[hep-ex\]](http://arxiv.org/abs/1203.5410)
 
 []{#ref-CMS:2012bw} S. Chatrchyan et al., **Observation of Z decays to
 four leptons with the CMS detector at the LHC**, *JHEP*. 12 (2012) 034,
@@ -4295,26 +3968,6 @@ model in pp collisions at sqrt(s) = 7 TeV**, *Phys. Rev. Lett.* 109
 (2012) 261802,
 doi:[10.1103/PhysRevLett.109.261802](https://doi.org/10.1103/PhysRevLett.109.261802),
 arXiv:[1210.2402 \[hep-ex\]](http://arxiv.org/abs/1210.2402)
-
-[]{#ref-Fajardo:2012zz} E. Fajardo et al., **A New Era for Central
-Processing and Production in CMS**, *J. Phys. Conf. Ser.* 396 (2012)
-042018,
-doi:[10.1088/1742-6596/396/4/042018](https://doi.org/10.1088/1742-6596/396/4/042018)
-
-[]{#ref-Kaselis:2012wn} R. Kaselis et al., **CMS Data transfer
-operations after the first years of LHC collisions**, *J. Phys. Conf.
-Ser.* 396 (2012) 042033,
-doi:[10.1088/1742-6596/396/4/042033](https://doi.org/10.1088/1742-6596/396/4/042033)
-
-[]{#ref-MolinaPerez:2012ww} J. Molina-Perez et al., **Monitoring
-techniques and alarm procedures for CMS services and sites in WLCG**,
-*J. Phys. Conf. Ser.* 396 (2012) 042041,
-doi:[10.1088/1742-6596/396/4/042041](https://doi.org/10.1088/1742-6596/396/4/042041)
-
-[]{#ref-AdelmanMcCarthy:2011zz} J. Adelman-McCarthy et al., **CMS
-distributed computing workflow experience**, *J. Phys. Conf. Ser.* 331
-(2011) 072019,
-doi:[10.1088/1742-6596/331/7/072019](https://doi.org/10.1088/1742-6596/331/7/072019)
 
 []{#ref-Chatrchyan:2011ah} S. Chatrchyan et al., **Search for
 supersymmetry in events with a lepton, a photon, and large missing
@@ -4347,12 +4000,6 @@ the LHC**, *JHEP*. 07 (2011) 113,
 doi:[10.1007/JHEP07(2011)113](https://doi.org/10.1007/JHEP07(2011)113),
 arXiv:[1106.3272 \[hep-ex\]](http://arxiv.org/abs/1106.3272)
 
-[]{#ref-Chatrchyan:2011bz} S. Chatrchyan et al., **Search for Physics
-Beyond the Standard Model in Opposite-Sign Dilepton Events at
-$\sqrt{s} = 7$ TeV**, *JHEP*. 06 (2011) 026,
-doi:[10.1007/JHEP06(2011)026](https://doi.org/10.1007/JHEP06(2011)026),
-arXiv:[1103.1348 \[hep-ex\]](http://arxiv.org/abs/1103.1348)
-
 []{#ref-Chatrchyan:2011cj} S. Chatrchyan et al., **Search for Three-Jet
 Resonances in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *Phys. Rev. Lett.*
 107 (2011) 101801,
@@ -4364,12 +4011,6 @@ Drell-Yan Cross Section in $pp$ Collisions at $\sqrt{s}=7$ TeV**,
 *JHEP*. 10 (2011) 007,
 doi:[10.1007/JHEP10(2011)007](https://doi.org/10.1007/JHEP10(2011)007),
 arXiv:[1108.0566 \[hep-ex\]](http://arxiv.org/abs/1108.0566)
-
-[]{#ref-Chatrchyan:2011dk} S. Chatrchyan et al., **Search for Same-Sign
-Top-Quark Pair Production at $\sqrt{s}=7$ TeV and Limits on Flavour
-Changing Neutral Currents in the Top Sector**, *JHEP*. 08 (2011) 005,
-doi:[10.1007/JHEP08(2011)005](https://doi.org/10.1007/JHEP08(2011)005),
-arXiv:[1106.2142 \[hep-ex\]](http://arxiv.org/abs/1106.2142)
 
 []{#ref-Chatrchyan:2011ds} S. Chatrchyan et al., **Determination of Jet
 Energy Calibration and Transverse Momentum Resolution in CMS**, *JINST*.
@@ -4444,13 +4085,6 @@ to dimuon decays in pp collisions at 7 TeV**, *Phys. Rev. Lett.* 107
 (2011) 191802,
 doi:[10.1103/PhysRevLett.107.191802](https://doi.org/10.1103/PhysRevLett.107.191802),
 arXiv:[1107.5834 \[hep-ex\]](http://arxiv.org/abs/1107.5834)
-
-[]{#ref-Chatrchyan:2011nb} S. Chatrchyan et al., **Measurement of the
-$t\bar{t}$ production cross section and the top quark mass in the
-dilepton channel in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 07
-(2011) 049,
-doi:[10.1007/JHEP07(2011)049](https://doi.org/10.1007/JHEP07(2011)049),
-arXiv:[1105.5661 \[hep-ex\]](http://arxiv.org/abs/1105.5661)
 
 []{#ref-Chatrchyan:2011nd} S. Chatrchyan et al., **Search for New
 Physics with a Mono-Jet and Missing Transverse Energy in $pp$ Collisions
@@ -4531,12 +4165,6 @@ energy performance of the CMS detector**, *JINST*. 6 (2011) P09001,
 doi:[10.1088/1748-0221/6/09/P09001](https://doi.org/10.1088/1748-0221/6/09/P09001),
 arXiv:[1106.5048 \[physics.ins-det\]](http://arxiv.org/abs/1106.5048)
 
-[]{#ref-Chatrchyan:2011tz} S. Chatrchyan et al., **Measurement of
-$W^+ W^-$ production and search for the Higgs boson in pp collisions at
-$\sqrt s=7$ TeV**, *Phys. Lett.* B699 (2011) 25--47,
-doi:[10.1016/j.physletb.2011.03.056](https://doi.org/10.1016/j.physletb.2011.03.056),
-arXiv:[1102.5429 \[hep-ex\]](http://arxiv.org/abs/1102.5429)
-
 []{#ref-Chatrchyan:2011ua} S. Chatrchyan et al., **Study of Z boson
 production in PbPb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV**, *Phys.
 Rev. Lett.* 106 (2011) 212301,
@@ -4560,12 +4188,6 @@ $t$-channel single top quark production cross section in $pp$ collisions
 at $\sqrt{s}=7$ TeV**, *Phys. Rev. Lett.* 107 (2011) 091802,
 doi:[10.1103/PhysRevLett.107.091802](https://doi.org/10.1103/PhysRevLett.107.091802),
 arXiv:[1106.3052 \[hep-ex\]](http://arxiv.org/abs/1106.3052)
-
-[]{#ref-Chatrchyan:2011wba} S. Chatrchyan et al., **Search for new
-physics with same-sign isolated dilepton events with jets and missing
-transverse energy at the LHC**, *JHEP*. 06 (2011) 077,
-doi:[10.1007/JHEP06(2011)077](https://doi.org/10.1007/JHEP06(2011)077),
-arXiv:[1104.3168 \[hep-ex\]](http://arxiv.org/abs/1104.3168)
 
 []{#ref-Chatrchyan:2011wc} S. Chatrchyan et al., **Search for
 Supersymmetry in $pp$ Collisions at $\sqrt{s} = 7$ TeV in Events with
@@ -4628,12 +4250,6 @@ Physics with Jets and Missing Transverse Momentum in $pp$ collisions at
 $\sqrt{s}=7$ TeV**, *JHEP*. 08 (2011) 155,
 doi:[10.1007/JHEP08(2011)155](https://doi.org/10.1007/JHEP08(2011)155),
 arXiv:[1106.4503 \[hep-ex\]](http://arxiv.org/abs/1106.4503)
-
-[]{#ref-Khachatryan:2010ez} V. Khachatryan et al., **First Measurement
-of the Cross Section for Top-Quark Pair Production in Proton-Proton
-Collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.* B695 (2011) 424--443,
-doi:[10.1016/j.physletb.2010.11.058](https://doi.org/10.1016/j.physletb.2010.11.058),
-arXiv:[1010.5994 \[hep-ex\]](http://arxiv.org/abs/1010.5994)
 
 []{#ref-Khachatryan:2010fa} V. Khachatryan et al., **Search for a heavy
 gauge boson $W$ ' in the final state with an electron and large missing
@@ -4755,15 +4371,6 @@ Decorrelations in $pp$ Collisions at $\sqrt{s} = 7$ TeV**, *Phys. Rev.
 Lett.* 106 (2011) 122003,
 doi:[10.1103/PhysRevLett.106.122003](https://doi.org/10.1103/PhysRevLett.106.122003),
 arXiv:[1101.5029 \[hep-ex\]](http://arxiv.org/abs/1101.5029)
-
-[]{#ref-Albert:2010zza} M. Albert et al., **Experience building and
-operating the CMS Tier-1 computing centres**, *J. Phys. Conf. Ser.* 219
-(2010) 072035,
-doi:[10.1088/1742-6596/219/7/072035](https://doi.org/10.1088/1742-6596/219/7/072035)
-
-[]{#ref-Bradley:2010zzb} D. Bradley et al., **Use of glide-ins in CMS
-for production and analysis**, *J. Phys. Conf. Ser.* 219 (2010) 072013,
-doi:[10.1088/1742-6596/219/7/072013](https://doi.org/10.1088/1742-6596/219/7/072013)
 
 []{#ref-Chatrchyan:2009aa} S. Chatrchyan et al., **Commissioning and
 Performance of the CMS Pixel Tracker with Cosmic Ray Muons**, *JINST*. 5
@@ -4897,10 +4504,6 @@ Silicon Tracker during Commissioning with Cosmic Rays**, *JINST*. 5
 doi:[10.1088/1748-0221/5/03/T03009](https://doi.org/10.1088/1748-0221/5/03/T03009),
 arXiv:[0910.2505 \[physics.ins-det\]](http://arxiv.org/abs/0910.2505)
 
-[]{#ref-Gutsche:2009zz} O. Gutsche, **Validation of Software Releases
-for CMS**, *J. Phys. Conf. Ser.* 219 (2010) 042040,
-doi:[10.1088/1742-6596/219/4/042040](https://doi.org/10.1088/1742-6596/219/4/042040)
-
 []{#ref-Khachatryan:2010gv} V. Khachatryan et al., **Observation of
 Long-Range Near-Side Angular Correlations in Proton-Proton Collisions at
 the LHC**, *JHEP*. 09 (2010) 091,
@@ -4961,21 +4564,10 @@ T07001,
 doi:[10.1088/1748-0221/4/07/T07001](https://doi.org/10.1088/1748-0221/4/07/T07001),
 arXiv:[0904.1220 \[physics.ins-det\]](http://arxiv.org/abs/0904.1220)
 
-[]{#ref-Adam:2009ab} W. Adam et al., **Stand-alone Cosmic Muon
-Reconstruction Before Installation of the CMS Silicon Strip Tracker**,
-*JINST*. 4 (2009) P05004,
-doi:[10.1088/1748-0221/4/05/P05004](https://doi.org/10.1088/1748-0221/4/05/P05004),
-arXiv:[0902.1860 \[physics.ins-det\]](http://arxiv.org/abs/0902.1860)
-
 []{#ref-Adam:2009ac} W. Adam et al., **Performance studies of the CMS
 Strip Tracker before installation**, *JINST*. 4 (2009) P06009,
 doi:[10.1088/1748-0221/4/06/P06009](https://doi.org/10.1088/1748-0221/4/06/P06009),
 arXiv:[0901.4316 \[physics.ins-det\]](http://arxiv.org/abs/0901.4316)
-
-[]{#ref-Chekanov:2008zz} S. Chekanov et al., **Measurement of beauty
-production from dimuon events at HERA**, *JHEP*. 02 (2009) 032,
-doi:[10.1088/1126-6708/2009/02/032](https://doi.org/10.1088/1126-6708/2009/02/032),
-arXiv:[0811.0894 \[hep-ex\]](http://arxiv.org/abs/0811.0894)
 
 []{#ref-Adam:2008zza} W. Adam et al., **The CMS tracker operation and
 performance at the Magnet Test and Cosmic Challenge**, *JINST*. 3 (2008)
@@ -4985,19 +4577,6 @@ doi:[10.1088/1748-0221/3/07/P07006](https://doi.org/10.1088/1748-0221/3/07/P0700
 []{#ref-Chatrchyan:2008aa} S. Chatrchyan et al., **The CMS Experiment at
 the CERN LHC**, *JINST*. 3 (2008) S08004,
 doi:[10.1088/1748-0221/3/08/S08004](https://doi.org/10.1088/1748-0221/3/08/S08004)
-
-[]{#ref-Evans:2008zzh} D. Evans et al., **Large scale job management and
-experience in recent data challenges within the LHC CMS experiment**,
-*PoS*. ACAT08 (2008) 032
-
-[]{#ref-Gutsche:2008zz} O. Gutsche et al., **WLCG scale testing during
-CMS data challenges**, *J. Phys. Conf. Ser.* 119 (2008) 062033,
-doi:[10.1088/1742-6596/119/6/062033](https://doi.org/10.1088/1742-6596/119/6/062033)
-
-[]{#ref-Spiga:2008zza} D. Spiga et al., **CRAB: The CMS distributed
-analysis tool development and design**, *Nucl. Phys. Proc. Suppl.*
-177-178 (2008) 267--268,
-doi:[10.1016/j.nuclphysbps.2007.11.124](https://doi.org/10.1016/j.nuclphysbps.2007.11.124)
 
 []{#ref-Ball:2007zza} G.L. Bayatian et al., **CMS technical design
 report, volume II: Physics performance**, *J. Phys.* G34 (2007)
@@ -5033,17 +4612,10 @@ B765 (2007) 1--30,
 doi:[10.1016/j.nuclphysb.2006.09.018](https://doi.org/10.1016/j.nuclphysb.2006.09.018),
 arXiv:[hep-ex/0608048 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0608048)
 
-[]{#ref-D:2008zz} D. Spiga et al., **The CMS Remote Analysis Builder
-(CRAB)**, *Lect. Notes Comput. Sci.* 4873 (2007) 580--586,
-doi:[10.1007/978-3-540-77220-0\_52](https://doi.org/10.1007/978-3-540-77220-0_52)
-
 []{#ref-dEnterria:2007iyi} D.G. d'Enterria et al., **CMS physics
 technical design report: Addendum on high density QCD with heavy ions**,
 *J. Phys.* G34 (2007) 2307--2455,
 doi:[10.1088/0954-3899/34/11/008](https://doi.org/10.1088/0954-3899/34/11/008)
-
-[]{#ref-Farina:2007zz} F. Farina et al., **Status and evolution of
-CRAB**, *PoS*. ACAT (2007) 020
 
 []{#ref-Nash:2007xs} J. Nash et al., **CMS expression of interest in the
 SLHC**, (2007)
@@ -5121,11 +4693,6 @@ sections and dijet correlations in D\*+- photoproduction at HERA**,
 *Nucl. Phys.* B729 (2005) 492--525,
 doi:[10.1016/j.nuclphysb.2005.09.021](https://doi.org/10.1016/j.nuclphysb.2005.09.021),
 arXiv:[hep-ex/0507089 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0507089)
-
-[]{#ref-Gutsche:2005es} O. Gutsche, **Measurement of Beauty Quark Cross
-Sections in Photoproduction with the ZEUS Experiment at the Electron
-Proton Collider HERA**, PhD thesis, Hamburg U., 2005,
-doi:[10.3204/DESY-THESIS-2005-010](https://doi.org/10.3204/DESY-THESIS-2005-010)
 
 []{#ref-Chekanov:2003bf} S. Chekanov et al., **Isolated tau leptons in
 events with large missing transverse momentum at HERA**, *Phys. Lett.*
@@ -5330,10 +4897,6 @@ production in ep collisions at HERA**, *Phys. Lett.* B559 (2003)
 doi:[10.1016/S0370-2693(03)00333-2](https://doi.org/10.1016/S0370-2693(03)00333-2),
 arXiv:[hep-ex/0302010 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0302010)
 
-[]{#ref-Kind:2003xz} O. Kind et al., **A ROOT based client server event
-display for the ZEUS experiment**, *eConf*. C0303241 (2003) MOLT002,
-arXiv:[hep-ex/0305095 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0305095)
-
 []{#ref-Chekanov:2002be} S. Chekanov et al., **Inclusive jet
 cross-sections in the Breit frame in neutral current deep inelastic
 scattering at HERA and determination of alpha(s)**, *Phys. Lett.* B547
@@ -5365,6 +4928,8 @@ at HERA**, *Phys. Lett.* B539 (2002) 197--217,
 doi:[10.1016/S0370-2693(02)03097-6](https://doi.org/10.1016/S0370-2693(02)03097-6),
 arXiv:[hep-ex/0205091 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0205091)
 
-[]{#ref-Gutsche:2001yq} O. Gutsche, **Development of the trigger
-algorithm for the MONOLITH experiment**, (2001), DESY report:
-[DESY-THESIS-2001-020](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020)
+
+----------
+
+* Full List of Physics Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf).
+* Full List of Computing Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf).

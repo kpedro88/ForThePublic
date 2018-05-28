@@ -1,3 +1,25 @@
+---
+linkcolor: blue
+urlcolor: blue
+citecolor: blue
+papersize: letter
+margin-left: .5in
+margin-right: .5in
+margin-top: .7in
+margin-bottom: .6in
+fontsize: 10pt
+title: "Publication List"
+author: "Oliver Gutsche"
+footer: true
+leftheader: ""
+centerheader: "Publication List of Oliver Gutsche"
+rightheader: ""
+leftfooter: "\\today"
+centerfooter: ""
+rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
+...
+
+
 []{#ref-Bauerdick:2018qjx} L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
@@ -5368,3 +5390,4 @@ arXiv:[hep-ex/0205091 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0205091)
 []{#ref-Gutsche:2001yq} O. Gutsche, **Development of the trigger
 algorithm for the MONOLITH experiment**, (2001), DESY report:
 [DESY-THESIS-2001-020](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020)
+
