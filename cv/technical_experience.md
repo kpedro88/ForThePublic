@@ -18,7 +18,7 @@ The CMS collaboration appointed me lead of the Data Operations Project in 2009. 
 
 ### Software
 
-In the U.S. CMS Software and Computing project, I am also curently responsible for the Software and Support area. Under my guidance, the CMS software framework CMSSW is developed, as well as critical R&D is conduected in the areas of vectorized tracking software, machine learning and novel analysis facilities.
+In the U.S. CMS Software and Computing project, I am also curently responsible for the Software and Support area. Under my guidance, the CMS software framework CMSSW is developed, as well as critical R&D is conducted in the areas of vectorized tracking software, machine learning and novel analysis facilities.
 
 Since 2005 and before the start of the LHC data taking in 2010, I was deeply involved in getting the CMS software ready for data taking. I was the lead developer of an innovative tracking algorithm that was used during the commissioning of the CMS detector. I conducted the first software tutorials in CMS teaching the basics of analysis software and how to perform analysis on the GRID to the CMS community, using a user-friendly GRID analysis tool, of which I was one of the lead developers as well.
 

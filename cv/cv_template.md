@@ -25,8 +25,9 @@ include({{{{whoami.md}}}})
 
 include({{{{overview.md}}}})
 
-# Research Positions
-include({{{{research.md}}}})
+include({{{{short_research.md}}}})
+
+\newpage
 
 # Education
 include({{{{education.md}}}})
