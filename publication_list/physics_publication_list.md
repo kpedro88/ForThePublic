@@ -17,6 +17,12 @@ in events with energetic, hadronically decaying top quarks and missing
 transverse momentum at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1801.08427
 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
 
+[]{#ref-Sirunyan:2018ubx} A.M. Sirunyan et al., **Combined search for
+electroweak production of charginos and neutralinos in proton-proton
+collisions at $\sqrt{s} =$ 13 TeV**, *JHEP*. 03 (2018) 160,
+doi:[10.1007/JHEP03(2018)160](https://doi.org/10.1007/JHEP03(2018)160),
+arXiv:[1801.03957 \[hep-ex\]](http://arxiv.org/abs/1801.03957)
+
 []{#ref-Gutsche:2016rwv} O. Gutsche, **Dark Matter and Super Symmetry:
 Exploring and Explaining the Universe with Simulations at the LHC**, in:
 **Proceedings, Winter Simulation Conference: Simulating Complex Service

@@ -4,7 +4,7 @@ TAIL = tail
 CITEPROCTEXFLG = --pdf-engine=xelatex --filter=pandoc-citeproc --standalone
 PANFLG = --pdf-engine=xelatex --standalone
 PAN2FLG = --pdf-engine=xelatex --standalone -M date="`date "+%B %e, %Y"`" --template=latex_template.tex
-PDFS = complete_publication_list.pdf computing_publication_list.pdf physics_publication_list.pdf experiment_publication_list.pdf short_computing_publication_list.pdf short_physics_publication_list.pdf
+PDFS = complete_publication_list.pdf computing_publication_list.pdf physics_publication_list.pdf experiment_publication_list.pdf short_computing_publication_list.pdf short_physics_publication_list.pdf shortest_computing_publication_list.pdf shortest_physics_publication_list.pdf
 
 .PHONY: inspire local clean all $(PDFS)
 

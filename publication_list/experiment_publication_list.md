@@ -516,12 +516,6 @@ and strange hadrons in high-multiplicity pPb collisions at
 $\sqrt{s_{_{{NN}}}} =$ 8.16 TeV**, *Submitted to: Phys. Rev. Lett.*
 (2018), arXiv:[1804.09767 \[hep-ex\]](http://arxiv.org/abs/1804.09767)
 
-[]{#ref-Sirunyan:2018ubx} A.M. Sirunyan et al., **Combined search for
-electroweak production of charginos and neutralinos in proton-proton
-collisions at $\sqrt{s} =$ 13 TeV**, *JHEP*. 03 (2018) 160,
-doi:[10.1007/JHEP03(2018)160](https://doi.org/10.1007/JHEP03(2018)160),
-arXiv:[1801.03957 \[hep-ex\]](http://arxiv.org/abs/1801.03957)
-
 []{#ref-Sirunyan:2018vjp} A.M. Sirunyan et al., **Search for natural and
 split supersymmetry in proton-proton collisions at $\sqrt{s} =$ 13 TeV
 in final states with jets and missing transverse momentum**, *JHEP*. 05
