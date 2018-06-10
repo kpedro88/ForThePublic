@@ -1,0 +1,7 @@
+[submodule "personal-webpage/themes/ananke"]
+	path = personal-webpage/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "personal-webpage/public"]
+	path = personal-webpage/public
+	url = git@github.com:gutsche/gutsche.github.io.git
+	branch = master
