@@ -49,55 +49,63 @@ I held many management positions at the Fermi National Accelerator Laboratory an
 \newpage
 
 # Education
-| | |
-|:-|:---------|
-| **2001-2005**    | **University of Hamburg**, _Doctor of Natural Sciences_, Hamburg, Germany |
-| Thesis title | [_Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment at the electron proton collider HERA_](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
-| Advisors     | Prof. Dr. Robert Klanner, Dr. Achim Geiser |
-
-| | |
-|:-|:---------|
-| **1996 - 2001** | **University of Hamburg**, _Diploma in Physics_, Hamburg, Germany |
-| Thesis title | [_Development of the trigger algorithm for the MONOLITH experiment_](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020) |
-| Advisors     | Prof. Dr. Robert Klanner, Dr. Achim Geiser |
+|                 |                                                                                                                     |
+|-----------------|---------------------------------------------------------------------------------------------------------------------|
+| **2001-2005**   | **University of Hamburg**, _Doctor of Natural Sciences_, Hamburg, Germany                                           |
+| Thesis title    | _Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment_                            |
+|                 | _at the electron proton collider HERA_ [(link)](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
+| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                                                          |
+|                 |                                                                                                                     |
+| **1996 - 2001** | **University of Hamburg**, _Diploma in Physics_, Hamburg, Germany                                                   |
+| Thesis title    | _Development of the trigger algorithm for the MONOLITH experiment_                                                  |
+|                 | [(link)](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020)                                         |
+| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                                                          |
 
 
 # Assignments
 ### U.S. CMS Software and Computing Operations Program
 
-| | |
-|:-|:---------|
-| 10/2016 - present | U.S.CMS Software and Computing Operations Deputy Program manager |
-| 10/2016 - present | L2 manager for Software and Support in the U.S. CMS Software and Computing Operations Program Execution Team |
-| 03/2014 – 09/2016	| L2 manager for Operations in the Software and Computing Operations Program Execution Team |
+|                   |                                                                    |
+|-------------------|--------------------------------------------------------------------|
+| 10/2016 - present | U.S.CMS Software and Computing Operations Deputy Program manager   |
+| 10/2016 - present | L2 manager for Software and Support in the U.S. CMS Software and   |
+|                   | Computing Operations Program Execution Team                        |
+| 03/2014 – 09/2016 | L2 manager for Operations in the Software and Computing Operations |
+|                   | Program Execution Team                                             |
 
 ### Fermi National Accelerator Laboratory - Scientific Computing Division
 
-| | |
-|:-|:---------|
-| 10/2016 - present | Deputy Head of the Scientific Services Quadrant |
-| 10/2014 – 09/2016 |	Assistant Head of the Scientific Computing Division for Science Operations and Workflows |
-| 10/2014 – 12/2014	| Interim Department Head of the Scientific Data Processing (SDP) Department of the Scientific Services Quadrant |
-| 10/2013 – 09/2014 | Deputy Department Head of the Scientific Data Processing (SDP) Department of the Scientific Services Quadrant |
-| 09/2012 – 09/2014	| CMS Operations Group Leader in the Scientific Data Processing (SDP) Department of the Scientific Services Quadrant |
+|                   |                                                                     |
+|-------------------|---------------------------------------------------------------------|
+| 10/2016 - present | Deputy Head of the Scientific Services Quadrant                     |
+| 10/2014 – 09/2016 | Assistant Head of the Scientific Computing Division for Science     |
+|                   | Operations and Workflows                                            |
+| 10/2014 – 12/2014 | Interim Department Head of the Scientific Data Processing (SDP)     |
+|                   | Department of the Scientific Services Quadrant                      |
+| 10/2013 – 09/2014 | Deputy Department Head of the Scientific Data Processing (SDP)      |
+|                   | Department of the Scientific Services Quadrant                      |
+| 09/2012 – 09/2014 | CMS Operations Group Leader in the Scientific Data Processing (SDP) |
+|                   | Department of the Scientific Services Quadrant                      |
 
 ### CMS Collaboration - Offline & Computing Project
 
-| | |
-|:-|:---------|
-| 09/2015 – present	| CMS Offline & Computing Project Focus Area Lead for Infrastructure and Resources |
-| 10/2014 – 08/2015	| Member of the CMS Offline & Computing Project Management Board |
-| 01/2012 – 09/2014	| CMS Offline & Computing Project Computing Operations L2 Manager |
-| 07/2009 – 12/2011 | CMS Offline & Computing Project Data Operations L2 Manager |
-| 01/2007 – 07/2009	| CMS Offline & Computing Project Release Validation Manager |
+|                   |                                                                    |
+|-------------------|--------------------------------------------------------------------|
+| 09/2015 – present | CMS Offline & Computing Project Focus Area Lead for Infrastructure |
+|                   | and Resources                                                      |
+| 10/2014 – 08/2015 | Member of the CMS Offline & Computing Project Management Board     |
+| 01/2012 – 09/2014 | CMS Offline & Computing Project Computing Operations L2 Manager    |
+| 07/2009 – 12/2011 | CMS Offline & Computing Project Data Operations L2 Manager         |
+| 01/2007 – 07/2009 | CMS Offline & Computing Project Release Validation Manager         |
 
 
 # Scholarships and Awards
-| | |
-|:-|:---------|
-| 2013 | CMS Young Researcher Prize |
-| 2008 | Exceptional Performance Recognition Award of Fermilab |
-| 2003 | German Academic Exchange Service scholarship for an academic stay at University College London (UCL), London (Great Britain) |
+|      |                                                                                 |
+| -----| --------------------------------------------------------------------------------|
+| 2013 | CMS Young Researcher Prize                                                      |
+| 2008 | Exceptional Performance Recognition Award of Fermilab                           |
+| 2003 | German Academic Exchange Service scholarship                                    |
+|      | for an academic stay at University College London (UCL), London (Great Britain) |
 
 
 # Research Experience
@@ -139,7 +147,7 @@ The CMS collaboration appointed me lead of the Data Operations Project in 2009. 
 
 ### Software
 
-In the U.S. CMS Software and Computing project, I am also curently responsible for the Software and Support area. Under my guidance, the CMS software framework CMSSW is developed, as well as critical R&D is conduected in the areas of vectorized tracking software, machine learning and novel analysis facilities.
+In the U.S. CMS Software and Computing project, I am also curently responsible for the Software and Support area. Under my guidance, the CMS software framework CMSSW is developed, as well as critical R&D is conducted in the areas of vectorized tracking software, machine learning and novel analysis facilities.
 
 Since 2005 and before the start of the LHC data taking in 2010, I was deeply involved in getting the CMS software ready for data taking. I was the lead developer of an innovative tracking algorithm that was used during the commissioning of the CMS detector. I conducted the first software tutorials in CMS teaching the basics of analysis software and how to perform analysis on the GRID to the CMS community, using a user-friendly GRID analysis tool, of which I was one of the lead developers as well.
 
@@ -147,38 +155,38 @@ During my graduate student time at DESY from 2001 to 2005, I was one of the prop
 
 
 # Physics Publications with Major Personal Contributions
-[]{#ref-Sirunyan:2018gka} A.M. Sirunyan et al., **Search for dark matter
+<!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
 transverse momentum at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1801.08427
 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
 
-[]{#ref-Khachatryan:2016xws} V. Khachatryan et al., **Measurements of t
+<!--#ref-Khachatryan:2016xws-->V. Khachatryan et al., **Measurements of t
 t-bar spin correlations and top quark polarization using dilepton final
 states in pp collisions at sqrt(s) = 8 TeV**, *Phys. Rev.* D93 (2016)
 052007,
 doi:[10.1103/PhysRevD.93.052007](https://doi.org/10.1103/PhysRevD.93.052007),
 arXiv:[1601.01107 \[hep-ex\]](http://arxiv.org/abs/1601.01107)
 
-[]{#ref-Khachatryan:2016ysn} V. Khachatryan et al., **Measurements of
+<!--#ref-Khachatryan:2016ysn-->V. Khachatryan et al., **Measurements of
 $t \bar t$ charge asymmetry using dilepton final states in pp collisions
 at $\sqrt s=8$ TeV**, *Phys. Lett.* B760 (2016) 365--386,
 doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006),
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
-[]{#ref-Chatrchyan:2013wua} S. Chatrchyan et al., **Measurements of
+<!--#ref-Chatrchyan:2013wua-->S. Chatrchyan et al., **Measurements of
 $t\bar{t}$ spin correlations and top-quark polarization using dilepton
 final states in $pp$ collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev.
 Lett.* 112 (2014) 182001,
 doi:[10.1103/PhysRevLett.112.182001](https://doi.org/10.1103/PhysRevLett.112.182001),
 arXiv:[1311.3924 \[hep-ex\]](http://arxiv.org/abs/1311.3924)
 
-[]{#ref-Chatrchyan:2014yta} S. Chatrchyan et al., **Measurements of the
+<!--#ref-Chatrchyan:2014yta-->S. Chatrchyan et al., **Measurements of the
 $t\bar{t}$ charge asymmetry using the dilepton decay channel in pp
 collisions at $\sqrt{s} =$ 7 TeV**, *JHEP*. 04 (2014) 191,
 doi:[10.1007/JHEP04(2014)191](https://doi.org/10.1007/JHEP04(2014)191),
 arXiv:[1402.3803 \[hep-ex\]](http://arxiv.org/abs/1402.3803)
 
-[]{#ref-Chatrchyan:2012xdj} S. Chatrchyan et al., **Observation of a new
+<!--#ref-Chatrchyan:2012xdj-->S. Chatrchyan et al., **Observation of a new
 boson at a mass of 125 GeV with the CMS experiment at the LHC**, *Phys.
 Lett.* B716 (2012) 30--61,
 doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.021),
@@ -186,92 +194,92 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
 
 # Computing Publications with Major Personal Contributions
-[]{#ref-Bauerdick:2018qjx} L. Bauerdick et al., **HEP Software
+<!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
-[]{#ref-Alves:2017she} A.A. Alves Jr et al., **A Roadmap for HEP
+<!--#ref-Alves:2017she-->A.A. Alves Jr et al., **A Roadmap for HEP
 Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
-[]{#ref-Gutsche:2017ccj} O. Gutsche et al., **CMS Analysis and Data
+<!--#ref-Gutsche:2017ccj-->O. Gutsche et al., **CMS Analysis and Data
 Reduction with Apache Spark**, in: **18th International Workshop on
 Advanced Computing and Analysis Techniques in Physics Research (ACAT
 2017) Seattle, WA, USA, August 21-25, 2017**, 2017.
 <http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-465-cd.pdf>,
 arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
 
-[]{#ref-Gutsche:2017weq} O. Gutsche et al., **Big Data in HEP: A
+<!--#ref-Gutsche:2017weq-->O. Gutsche et al., **Big Data in HEP: A
 comprehensive use case study**, *J. Phys. Conf. Ser.* 898 (2017) 072012,
 doi:[10.1088/1742-6596/898/7/072012](https://doi.org/10.1088/1742-6596/898/7/072012),
 arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
-[]{#ref-Holzman:2017jgg} B. Holzman et al., **HEPCloud, a New Paradigm
+<!--#ref-Holzman:2017jgg-->B. Holzman et al., **HEPCloud, a New Paradigm
 for HEP Facilities: CMS Amazon Web Services Investigation**, *Comput.
 Softw. Big Sci.* 1 (2017) 1,
 doi:[10.1007/s41781-017-0001-9](https://doi.org/10.1007/s41781-017-0001-9),
 arXiv:[1710.00100 \[cs.DC\]](http://arxiv.org/abs/1710.00100)
 
-[]{#ref-Habib:2016sce} S. Habib et al., **ASCR/HEP Exascale Requirements
+<!--#ref-Habib:2016sce-->S. Habib et al., **ASCR/HEP Exascale Requirements
 Review Report**, (2016), arXiv:[1603.09303
 \[physics.comp-ph\]](http://arxiv.org/abs/1603.09303)
 
-[]{#ref-Garzoglio:2015ajq} G. Garzoglio et al., **Diversity in Computing
+<!--#ref-Garzoglio:2015ajq-->G. Garzoglio et al., **Diversity in Computing
 Technologies and Strategies for Dynamic Resource Allocation**, *J. Phys.
 Conf. Ser.* 664 (2015) 012001,
 doi:[10.1088/1742-6596/664/1/012001](https://doi.org/10.1088/1742-6596/664/1/012001)
 
-[]{#ref-Habib:2015paq} T. LeCompte et al., **High Energy Physics Forum
+<!--#ref-Habib:2015paq-->T. LeCompte et al., **High Energy Physics Forum
 for Computational Excellence: Working Group Reports (I. Applications
 Software II. Software Libraries and Tools III. Systems)**, (2015),
 arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 
 # List of Presentation and Talks
-[]{#ref-Gutsche:2018aab} O. Gutsche, **The Future of Large Scale
+<!--#ref-Gutsche:2018aab-->O. Gutsche, **The Future of Large Scale
 Scientific Computing**, (2018),
 [Colloquium](http://www.physics.umass.edu/events/2018-04-06-future-large-scale-scientific-computing)
 given at the Physics Department at the University of Massachusetts
 Amherst, [(Material)](http://bit.ly/2HfW3T9)
 
-[]{#ref-Gutsche:2017aai} O. Gutsche, **The Future of Large Scale
+<!--#ref-Gutsche:2017aai-->O. Gutsche, **The Future of Large Scale
 Scientific Computing**, (2017),
 [Colloquium](http://www.depts.ttu.edu/phas/News_and_Events/Colloquia/F2017_abs/Colloquium10-24-17_Gutsche.pdf)
 given at the Department of Physics and Astronomy at Texas Tech
 University, [(Material)](https://goo.gl/iGtivw)
 
-[]{#ref-Gutsche:2017aah} O. Gutsche, **Particle Physics - A world wide
+<!--#ref-Gutsche:2017aah-->O. Gutsche, **Particle Physics - A world wide
 journey from recording particles to analysis using big computing**,
 (2017), Plenary Talk at the Chicago Council on Science & Technology
 Panel: [Fermilab and the New Frontiers of
 Physics](http://www.c2st.org/event/2017/09/fermilab-and-new-frontiers-physics),
 [(Material)](https://goo.gl/wDB5SU)
 
-[]{#ref-Gutsche:2017aag} O. Gutsche, **CMS Analysis and Data Reduction
+<!--#ref-Gutsche:2017aag-->O. Gutsche, **CMS Analysis and Data Reduction
 with Apache Spark**, (2017), Parallel Session Talk at the 18th
 International Workshop on Advanced Computing and Analysis Techniques in
 Physics Research [(ACAT 2017)](https://indico.cern.ch/event/567550/),
 [(Material)](https://indico.cern.ch/event/567550/contributions/2629602/attachments/1511348/2357033/170822_-_ACAT2017_-_Gutsche_-_CMS_Analysis_and_Data_Reduction_with_Apache_Spark.pdf)
 
-[]{#ref-Gutsche:2017aaf} O. Gutsche, **50 years Fermilab - Computing
+<!--#ref-Gutsche:2017aaf-->O. Gutsche, **50 years Fermilab - Computing
 Innovations**, (2017), Talk at the Fermilab 50th Anniversary
 [Symposium](https://indico.fnal.gov/event/12923/other-view?view=standard),
 [(Material)](https://indico.fnal.gov/event/12923/session/7/contribution/38/material/slides/0.pdf)
 
 
 # List of Articles and Media Mentionings
-[]{#ref-Gutsche:2017aac} A. Purcell, **Oliver Gutsche: Fermilab joins
+<!--#ref-Gutsche:2017aac-->A. Purcell, **Oliver Gutsche: Fermilab joins
 CERN openlab, works on data reduction project with CMS experiment**,
 (2017), Article in [CERN openlab News](http://openlab.cern/news),
 [(Article)](http://openlab.cern/news/fermilab-joins-cern-openlab-works-?data-reduction?-project-cms-experiment-0)
 
-[]{#ref-Gutsche:2017aaa} M. May, **Oliver Gutsche: A Spark in the
+<!--#ref-Gutsche:2017aaa-->M. May, **Oliver Gutsche: A Spark in the
 dark**, (2017), Article in [ASCR
 Discovery](http://ascr-discovery.science.doe.gov),
 [(Article)](http://ascr-discovery.science.doe.gov/2017/10/a-spark-in-the-dark/)
 
-[]{#ref-Gutsche:2017aab} M. May, **Oliver Gutsche: Open-source software
+<!--#ref-Gutsche:2017aab-->M. May, **Oliver Gutsche: Open-source software
 for data from high-energy physics**, (2017), Article in
 [Phys.Org](https://phys.org),
 [(Article)](https://phys.org/news/2017-10-open-source-software-high-energy-physics.html)

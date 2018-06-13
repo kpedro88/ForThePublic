@@ -32,7 +32,7 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 * Particle physicist conducting **leading edge research** for New Physics Beyond the Standard Model of Particle Physics
     * Multiple years of experience in analyzing high-energy collisions using a multitude of different techniques. One of my most noticeable publications is the [**Observation of the Higgs Boson in 2012**](https://doi.org/10.1016/j.physletb.2012.08.021).
 * **Leader in scientific computing**
-    * Expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques. D
+    * Expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques.
     * Deep experience in planning, developing, and operating distributed computing infrastructures that provide access to several hundred-thousand computing cores and hundreds of petabytes of disk space.
     * Intimately familiar with scientific grid sites, academic and commercial clouds and the largest U.S. supercomputers .
     * Recently part of a worldwide community planning process for the software and computing infrastructure of the High Luminosity LHC (HL-LHC, 2016). Contributed to the [overview white paper of the community](http://arxiv.org/abs/1712.06982) and editor of the topical white paper about the future of [data analysis in High Energy Physics](http://arxiv.org/abs/1804.03983).
@@ -48,19 +48,20 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 | 09/2001 – 02/2005     | Doctoral Candidate      | Deutsches Elektronen Synchrotron (DESY)          |
 
 
-| Education | |
-|:-|:---------|
-| **2001-2005**    | **University of Hamburg**, _Doctor of Natural Sciences_, Hamburg, Germany |
-| Thesis title | [_Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment at the electron proton collider HERA_](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
-| Advisors     | Prof. Dr. Robert Klanner, Dr. Achim Geiser |
+| Education     |                                                                                                                     |
+|---------------|---------------------------------------------------------------------------------------------------------------------|
+| **2001-2005** | **University of Hamburg**, _Doctor of Natural Sciences_, Hamburg, Germany                                           |
+| Thesis title  | _Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment_                            |
+|               | _at the electron proton collider HERA_ [(link)](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
+| Advisors      | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                                                          |
 
 
-| Assignments | |
-|:-|:---------|
-| 10/2016 - present | Deputy Operations Program manager | U.S.CMS Software and Computing Operations Program |
-| 10/2016 - present | L2 manager for Software and Support in the Software and Computing Operations Program Execution Team | U.S.CMS Software and Computing Operations Program |
-| 10/2016 - present | Deputy Head of the Scientific Services Quadrant | Fermi National Accelerator Laboratory - Scientific Computing Division |
-| 09/2015 – present	| Focus Area Lead for Infrastructure and Resources | CMS Collaboration - Offline & Computing Project |
+| Assignments       |                                                                                |
+|-------------------|--------------------------------------------------------------------------------|
+| 10/2016 - present | Deputy U.S.CMS Software and Computing Operations Program manager               |
+| 10/2016 - present | L2 manager for Software and Support - U.S.CMS Operations Program               |
+| 10/2016 - present | Deputy Head of the Scientific Services Quadrant - Fermilab                     |
+| 09/2015 – present | Focus Area Lead for Computing Infrastructure and Resources - CMS Collaboration |
 
 
 \newpage
@@ -82,12 +83,12 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ## Publications with Major Personal Contributions
 
 ### Physics
-[]{#ref-Sirunyan:2018gka} A.M. Sirunyan et al., **Search for dark matter
+<!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
 transverse momentum at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1801.08427
 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
 
-[]{#ref-Khachatryan:2016ysn} V. Khachatryan et al., **Measurements of
+<!--#ref-Khachatryan:2016ysn-->V. Khachatryan et al., **Measurements of
 $t \bar t$ charge asymmetry using dilepton final states in pp collisions
 at $\sqrt s=8$ TeV**, *Phys. Lett.* B760 (2016) 365--386,
 doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006),
@@ -95,12 +96,12 @@ arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
 
 ### Computing
-[]{#ref-Bauerdick:2018qjx} L. Bauerdick et al., **HEP Software
+<!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
-[]{#ref-Alves:2017she} A.A. Alves Jr et al., **A Roadmap for HEP
+<!--#ref-Alves:2017she-->A.A. Alves Jr et al., **A Roadmap for HEP
 Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
