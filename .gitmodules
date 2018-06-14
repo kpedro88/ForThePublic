@@ -4,4 +4,5 @@
 	branch = master
 [submodule "personal-webpage/themes/academic"]
 	path = personal-webpage/themes/academic
-	url = git@github.com:gcushen/hugo-academic.git
+    url = git@github.com:gcushen/hugo-academic.git
+    ignore = dirty
