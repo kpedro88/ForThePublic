@@ -11,6 +11,12 @@ Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
 commercial clouds in CMS**, *J. Phys. Conf. Ser.* 898 (2017) 052019,
 doi:[10.1088/1742-6596/898/5/052019](https://doi.org/10.1088/1742-6596/898/5/052019)
 
+<!--#ref-Chang:2017ske-->J. Chang et al., **Striped Data Server for
+Scalable Parallel Data Analysis**, in: **18th International Workshop on
+Advanced Computing and Analysis Techniques in Physics Research (ACAT
+2017) Seattle, WA, USA, August 21-25, 2017**, 2017.
+<http://lss.fnal.gov/archive/2018/conf/fermilab-conf-18-016-cd.pdf>
+
 <!--#ref-Gutsche:2017ccj-->O. Gutsche et al., **CMS Analysis and Data
 Reduction with Apache Spark**, in: **18th International Workshop on
 Advanced Computing and Analysis Techniques in Physics Research (ACAT

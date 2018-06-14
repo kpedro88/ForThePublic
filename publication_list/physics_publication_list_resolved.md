@@ -36,8 +36,9 @@ arXiv:[1710.10614 \[hep-ex\]](http://arxiv.org/abs/1710.10614)
 
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
-transverse momentum at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1801.08427
-\[hep-ex\]](http://arxiv.org/abs/1801.08427)
+transverse momentum at $\sqrt{s}=13$ TeV**, *JHEP*. 06 (2018) 027,
+doi:[10.1007/JHEP06(2018)027](https://doi.org/10.1007/JHEP06(2018)027),
+arXiv:[1801.08427 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
 
 <!--#ref-Sirunyan:2018ubx-->A.M. Sirunyan et al., **Combined search for
 electroweak production of charginos and neutralinos in proton-proton
