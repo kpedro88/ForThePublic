@@ -272,6 +272,26 @@ enableGitInfo = false
   url = "cv"
   weight = 3
 
+[[menu.main]]
+  name = "Physics Publications"
+  url = "physics_pubs"
+  weight = 4
+
+[[menu.main]]
+  name = "Computing Publications"
+  url = "computing_pubs"
+  weight = 5
+
+[[menu.main]]
+  name = "Talks"
+  url = "talks"
+  weight = 6
+
+[[menu.main]]
+  name = "Articles"
+  url = "articles"
+  weight = 7
+
 # Taxonomies.
 # [taxonomies]
 #   tag = "tags"
