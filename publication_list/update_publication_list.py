@@ -175,7 +175,7 @@ def add_additional_records(db,filename):
     db.entries.extend(additional_db.entries)
     print("Added %i additional entries not covered by complete Inspire query from filename '%s'" % (len(additional_db.entries),filename))
 
-def update(inspire_db,physics_db,computing_db,experiment_db):
+def update(inspire_db,physics_db,computing_db,experiment_db,short_physics_db,short_computing_db,shortest_physics_db,shortest_computing_db):
     """
 
     update records in physics, computing and experiment BibTeX files with records from the inspire BibTeX file
@@ -186,6 +186,10 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
     physics_keys = physics_db.entries_dict.keys()
     computing_keys = computing_db.entries_dict.keys()
     experiment_keys = experiment_db.entries_dict.keys()
+    short_physics_keys = short_physics_db.entries_dict.keys()
+    short_computing_keys = short_computing_db.entries_dict.keys()
+    shortest_physics_keys = shortest_physics_db.entries_dict.keys()
+    shortest_computing_keys = shortest_computing_db.entries_dict.keys()
     missing_keys = []
 
     go_quit = False
@@ -255,6 +259,34 @@ def update(inspire_db,physics_db,computing_db,experiment_db):
             tmp_list.append(inspire_db.entries_dict[key])
     experiment_db.entries = tmp_list
 
+    # update all keys in short_physics_db
+    tmp_list = []
+    for key in short_physics_keys:
+        if key in new_keys:
+            tmp_list.append(inspire_db.entries_dict[key])
+    short_physics_db.entries = tmp_list
+
+    # update all keys in short_computing_db
+    tmp_list = []
+    for key in short_computing_keys:
+        if key in new_keys:
+            tmp_list.append(inspire_db.entries_dict[key])
+    short_computing_db.entries = tmp_list
+
+    # update all keys in shortest_physics_db
+    tmp_list = []
+    for key in shortest_physics_keys:
+        if key in new_keys:
+            tmp_list.append(inspire_db.entries_dict[key])
+    shortest_physics_db.entries = tmp_list
+
+    # update all keys in shortest_computing_db
+    tmp_list = []
+    for key in shortest_computing_keys:
+        if key in new_keys:
+            tmp_list.append(inspire_db.entries_dict[key])
+    shortest_computing_db.entries = tmp_list
+
     # consistency check
     if len(inspire_db.entries) != len(physics_db.entries)+len(computing_db.entries)+len(experiment_db.entries):
         print("Inconsistency: physics %i + computing %i + experiment %i = sum %i is not the same as inspire %i" % (len(physics_db.entries),len(computing_db.entries),len(experiment_db.entries),len(physics_db.entries)+len(computing_db.entries)+len(experiment_db.entries),len(inspire_db.entries)))
@@ -289,12 +321,20 @@ def main(args):
     parser.add_argument("--physics", action="store", default = "physics_publication_list.bib", help="Filename of physics publications with direct involvement")
     parser.add_argument("--computing", action="store", default = "computing_publication_list.bib", help="Filename of computing publications with direct involvement")
     parser.add_argument("--experiment", action="store", default = "experiment_publication_list.bib", help="Filename of publications through membership in experiment collaborations")
+    parser.add_argument("--short_physics", action="store", default = "short_physics_publication_list.bib", help="Filename of short physics publications with direct involvement")
+    parser.add_argument("--short_computing", action="store", default = "short_computing_publication_list.bib", help="Filename of short computing publications with direct involvement")
+    parser.add_argument("--shortest_physics", action="store", default = "shortest_physics_publication_list.bib", help="Filename of shortest physics publications with direct involvement")
+    parser.add_argument("--shortest_computing", action="store", default = "shortest_computing_publication_list.bib", help="Filename of shortest computing publications with direct involvement")
     args = parser.parse_args()
 
     # how many entries are already tracked locally
     physics_db = load_bibtex_file(args.physics, True)
     computing_db = load_bibtex_file(args.computing, True)
     experiment_db = load_bibtex_file(args.experiment, True)
+    short_computing_db = load_bibtex_file(args.short_computing, True)
+    short_physics_db = load_bibtex_file(args.short_physics, True)
+    shortest_computing_db = load_bibtex_file(args.shortest_computing, True)
+    shortest_physics_db = load_bibtex_file(args.shortest_physics, True)
     print ("Locally tracking %i entries." % (len(physics_db.entries)+len(computing_db.entries)+len(experiment_db.entries)) )
 
     if args.input == None:
@@ -304,7 +344,7 @@ def main(args):
     else:
         inspire_db = load_bibtex_file(args.input)
 
-    go_quit = update(inspire_db,physics_db,computing_db,experiment_db)
+    go_quit = update(inspire_db,physics_db,computing_db,experiment_db,short_physics_db,short_computing_db,shortest_physics_db,shortest_computing_db)
 
     # not optional, always write the output files
     write_bibtex_file(args.output,inspire_db)
@@ -316,6 +356,10 @@ def main(args):
     write_bibtex_file(args.physics,physics_db)
     write_bibtex_file(args.computing,computing_db)
     write_bibtex_file(args.experiment,experiment_db)
+    write_bibtex_file(args.short_physics,short_physics_db)
+    write_bibtex_file(args.short_computing,short_computing_db)
+    write_bibtex_file(args.shortest_physics,shortest_physics_db)
+    write_bibtex_file(args.shortest_computing,shortest_computing_db)
 
 if __name__ == '__main__':
     main(sys.argv)
