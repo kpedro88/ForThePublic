@@ -1,7 +1,7 @@
 M4=m4
 DATE=$(shell date +"%d. %B %Y")
 
-.PHONY: all clean
+.PHONY: all clean server static
 
 all:
 	rm -f h_tmp1.md
@@ -30,3 +30,9 @@ all:
 
 clean:
 	rm -f _tmp1.md
+
+server:
+	hugo server -D --bind=0.0.0.0 --disableFastRender
+
+static:
+	hugo
