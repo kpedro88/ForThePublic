@@ -116,6 +116,7 @@ I joined the CMS collaboration in 2005. From the beginning, my research focus ha
 I was a founding member of an analysis group with members from Fermilab/UCSD/UCSB, focusing on final states with leptons. The approach proved to be successful; after early publications such as a measurement of the [top quark cross section](https://doi.org/10.1007/JHEP07(2011)049), the focus shifted to new physics and beyond the Standard Model processes. We were leaders of the WW to dilepton analysis in the [CMS Higgs discovery paper](https://doi.org/10.1016/j.physletb.2012.08.021), and searches for SUSY in same-sign and opposite-sign dilepton as well as single lepton channels.
 
 I have been supervising several Fermilab postdoctoral researchers pursuing my research interests.
+
 * Together with Jacob Linacre, I concentrated on exploiting the dilepton signature to search for [pair production of a heavy top-like quark (t’)](https://doi.org/10.1016/j.physletb.2012.07.059). I continued studying the properties of top quarks exploiting angular distributions of the dilepton final state. We were the first to use the dilepton final state to measure the top pair charge asymmetry at the LHC to further investigate the deviations seen at the Tevatron. We published LCH Run 1 papers for top pair spin correlations and top quark polarization for the [7 TeV](https://doi.org/10.1103/PhysRevLett.112.182001) and [8 TeV](https://doi.org/10.1103/PhysRevD.93.052007) datasets as well as the top pair charge asymmetry for the [7 TeV](https://doi.org/10.1007/JHEP04(2014)191) and [8 TeV](https://doi.org/10.1016/j.physletb.2016.07.006) datasets.
 * Together with my current Fermilab PostDoc, Matteo Cremonesi, I am searching for dark matter particles in various channels. Our first publication presented the [search for dark matter in events with energetic, hadronically decaying top quarks and missing transverse momentum](http://arxiv.org/abs/1801.08427) in the 13 TeV 2016 dataset of LHC Run 2. We are now concentrating on other mono-object channels with an expanding effort at the Fermilab LHC Physics Center.
 
@@ -157,8 +158,9 @@ During my graduate student time at DESY from 2001 to 2005, I was one of the prop
 # Physics Publications with Major Personal Contributions
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
-transverse momentum at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1801.08427
-\[hep-ex\]](http://arxiv.org/abs/1801.08427)
+transverse momentum at $\sqrt{s}=13$ TeV**, *JHEP*. 06 (2018) 027,
+doi:[10.1007/JHEP06(2018)027](https://doi.org/10.1007/JHEP06(2018)027),
+arXiv:[1801.08427 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
 
 <!--#ref-Khachatryan:2016xws-->V. Khachatryan et al., **Measurements of t
 t-bar spin correlations and top quark polarization using dilepton final
