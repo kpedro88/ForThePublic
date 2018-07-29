@@ -20,6 +20,11 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-Gutsche:2018aac-->O. Gutsche, **The Future of Large Scale
+Scientific Computing - Trends in computing hardware**, (2018), [US ATLAS
+Workshop 2018 Open Day](https://indico.cern.ch/event/732285/) at the
+University of Pittsburgh, [(Material)]()
+
 <!--#ref-Gutsche:2018aab-->O. Gutsche, **The Future of Large Scale
 Scientific Computing**, (2018),
 [Colloquium](http://www.physics.umass.edu/events/2018-04-06-future-large-scale-scientific-computing)

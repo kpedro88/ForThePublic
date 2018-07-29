@@ -239,17 +239,16 @@ arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 
 # List of Presentation and Talks
+<!--#ref-Gutsche:2018aac-->O. Gutsche, **The Future of Large Scale
+Scientific Computing - Trends in computing hardware**, (2018), [US ATLAS
+Workshop 2018 Open Day](https://indico.cern.ch/event/732285/) at the
+University of Pittsburgh, [(Material)]()
+
 <!--#ref-Gutsche:2018aab-->O. Gutsche, **The Future of Large Scale
 Scientific Computing**, (2018),
 [Colloquium](http://www.physics.umass.edu/events/2018-04-06-future-large-scale-scientific-computing)
 given at the Physics Department at the University of Massachusetts
 Amherst, [(Material)](http://bit.ly/2HfW3T9)
-
-<!--#ref-Gutsche:2017aai-->O. Gutsche, **The Future of Large Scale
-Scientific Computing**, (2017),
-[Colloquium](http://www.depts.ttu.edu/phas/News_and_Events/Colloquia/F2017_abs/Colloquium10-24-17_Gutsche.pdf)
-given at the Department of Physics and Astronomy at Texas Tech
-University, [(Material)](https://goo.gl/iGtivw)
 
 <!--#ref-Gutsche:2017aah-->O. Gutsche, **Particle Physics - A world wide
 journey from recording particles to analysis using big computing**,
