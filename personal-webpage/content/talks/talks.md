@@ -14,7 +14,8 @@ weight = 4
 <!--#ref-Gutsche:2018aac-->O. Gutsche, **The Future of Large Scale
 Scientific Computing - Trends in computing hardware**, (2018), [US ATLAS
 Workshop 2018 Open Day](https://indico.cern.ch/event/732285/) at the
-University of Pittsburgh, [(Material)]()
+University of Pittsburgh,
+[(Material)](https://indico.cern.ch/event/732285/contributions/3021322/attachments/1695150/2728277/180730_-_Atlas_Workshop_Open_Day_-_Gutsche_-_Trends_in_Hardware.pdf)
 
 <!--#ref-Gutsche:2018aab-->O. Gutsche, **The Future of Large Scale
 Scientific Computing**, (2018),
@@ -47,6 +48,6 @@ Innovations**, (2017), Talk at the Fermilab 50th Anniversary
 
 ----------
 
-published on: 29. July 2018
+published on: 01. August 2018
 
 ----------
