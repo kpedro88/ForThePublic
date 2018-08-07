@@ -24,9 +24,9 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 | | |
 |:----|-:|
 | Oliver Gutsche                                                        | ![](letter.png){ height=10px } [gutsche@fnal.gov](mailto:gutsche@fnal.gov) |
-| Fermi National Accelerator Laboratory / Scientific Computing Division | ![](linkedin.png){ height=10px } [LinkedIn](https://www.linkedin.com/in/gutsche) |
-| P.O. Box 500 / MS. 205, Batavia, IL, 60510                            | ![](inspire.png){ height=10px } [InSpire](https://inspirehep.net/author/profile/O.Gutsche.1) |
-| +1-630-840-8909                                                       | ![](orcid.png){ height=10px } [ORCID](https://orcid.org/0000-0002-8015-9622) |
+| Fermi National Accelerator Laboratory / Scientific Computing Division | ![](www.png){ height=10px } [gutsche.github.io](https://gutsche.github.io) |
+| P.O. Box 500 / MS. 205, Batavia, IL, 60510                            |  ![](linkedin.png){ height=10px } [LinkedIn](https://www.linkedin.com/in/gutsche)|
+| +1-630-840-8909                                                       | ![](inspire.png){ height=10px } [InSpire](https://inspirehep.net/author/profile/O.Gutsche.1) ![](orcid.png){ height=10px } [ORCID](https://orcid.org/0000-0002-8015-9622) |
 
 
 I am a particle physicist and conduct **leading edge research** for New Physics Beyond the Standard Model of Particle Physics. This goes hand in hand with further consolidating the validity of the Standard Model in the absence of new physics signals.
@@ -242,7 +242,8 @@ arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 <!--#ref-Gutsche:2018aac-->O. Gutsche, **The Future of Large Scale
 Scientific Computing - Trends in computing hardware**, (2018), [US ATLAS
 Workshop 2018 Open Day](https://indico.cern.ch/event/732285/) at the
-University of Pittsburgh, [(Material)]()
+University of Pittsburgh,
+[(Material)](https://indico.cern.ch/event/732285/contributions/3021322/attachments/1695150/2728277/180730_-_Atlas_Workshop_Open_Day_-_Gutsche_-_Trends_in_Hardware.pdf)
 
 <!--#ref-Gutsche:2018aab-->O. Gutsche, **The Future of Large Scale
 Scientific Computing**, (2018),

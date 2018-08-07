@@ -5121,8 +5121,6 @@ doi:[10.1016/S0370-2693(02)03097-6](https://doi.org/10.1016/S0370-2693(02)03097-
 arXiv:[hep-ex/0205091 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0205091)
 
 
-
-
 ----------
 
 * Full List of Physics Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/physics_publication_list.pdf).

@@ -5097,5 +5097,3 @@ $^2$ charged current cross-sections in e $^-$p deep inelastic scattering
 at HERA**, *Phys. Lett.* B539 (2002) 197--217,
 doi:[10.1016/S0370-2693(02)03097-6](https://doi.org/10.1016/S0370-2693(02)03097-6),
 arXiv:[hep-ex/0205091 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0205091)
-
- 
