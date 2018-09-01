@@ -145,7 +145,8 @@ arXiv:[0902.1860 \[physics.ins-det\]](http://arxiv.org/abs/0902.1860)
 
 <!--#ref-Evans:2008zzh-->D. Evans et al., **Large scale job management and
 experience in recent data challenges within the LHC CMS experiment**,
-*PoS*. ACAT08 (2008) 032
+*PoS*. ACAT08 (2008) 032,
+doi:[10.22323/1.070.0032](https://doi.org/10.22323/1.070.0032)
 
 <!--#ref-Gutsche:2008zz-->O. Gutsche et al., **WLCG scale testing during
 CMS data challenges**, *J. Phys. Conf. Ser.* 119 (2008) 062033,
@@ -161,7 +162,8 @@ doi:[10.1016/j.nuclphysbps.2007.11.124](https://doi.org/10.1016/j.nuclphysbps.20
 doi:[10.1007/978-3-540-77220-0\_52](https://doi.org/10.1007/978-3-540-77220-0_52)
 
 <!--#ref-Farina:2007zz-->F. Farina et al., **Status and evolution of
-CRAB**, *PoS*. ACAT (2007) 020
+CRAB**, *PoS*. ACAT (2007) 020,
+doi:[10.22323/1.050.0020](https://doi.org/10.22323/1.050.0020)
 
 <!--#ref-Kind:2003xz-->O. Kind et al., **A ROOT based client server event
 display for the ZEUS experiment**, *eConf*. C0303241 (2003) MOLT002,
