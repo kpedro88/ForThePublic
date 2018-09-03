@@ -18,23 +18,38 @@ Link to Curriculum Vitae: [(PDF)](https://github.com/gutsche/ForThePublic/raw/ma
 
 changequote(`{{{{', `}}}}')
 
+## Research Positions
 include({{{{../cv/research.md}}}})
 
 ## Education
 include({{{{../cv/education.md}}}})
 
-## Assignments
-include({{{{../cv/assignments.md}}}})
+## Assignments: U.S. CMS Software and Computing Operations Program
+include({{{{../cv/assignments_ops.md}}}})
+
+## Assignments: Fermi National Accelerator Laboratory - Scientific Computing Division
+include({{{{../cv/assignments_scd.md}}}})
+
+## Assignments: CMS Collaboration - Offline & Computing Project
+include({{{{../cv/assignments_cms_offcomp.md}}}})
 
 ## Scholarships and Awards
 include({{{{../cv/awards.md}}}})
 
 ## Research Experience
+### CMS collaboration: 2005 – Present
 include({{{{../cv/research_experience_cms.md}}}})
+### ZEUS collaboration: 2001 – 2005
 include({{{{../cv/research_experience_zeus.md}}}})
 
 ## Technical Experience
 include({{{{../cv/technical_experience.md}}}})
+
+### Computing Infrastructure
+include({{{{../cv/technical_experience_comp.md}}}})
+
+### Software
+include({{{{../cv/technical_experience_soft.md}}}})
 
 ## Physics Publications with Major Personal Contributions
 include({{{{../publication_list/short_physics_publication_list.md}}}})

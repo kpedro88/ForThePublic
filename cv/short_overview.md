@@ -1,5 +1,5 @@
 * Particle physicist conducting **leading edge research** for New Physics Beyond the Standard Model of Particle Physics
-    * Multiple years of experience in analyzing high-energy collisions using a multitude of different techniques. One of my most noticeable publications is the [**Observation of the Higgs Boson in 2012**](https://doi.org/10.1016/j.physletb.2012.08.021).
+    * Multiple years of experience in analyzing high-energy collisions using a multitude of different techniques. One of my most noticeable publications is the [Observation of the Higgs Boson in 2012](https://doi.org/10.1016/j.physletb.2012.08.021).
 * **Leader in scientific computing**
     * Expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques.
     * Deep experience in planning, developing, and operating distributed computing infrastructures that provide access to several hundred-thousand computing cores and hundreds of petabytes of disk space.

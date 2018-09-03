@@ -18,28 +18,28 @@ Link to Resume: [(PDF)](https://github.com/gutsche/ForThePublic/raw/master/cv/re
 
 
 
-| Research Positions    |                         |                                                  |
-|:----------------------|:------------------------|:-------------------------------------------------|
-| **09/2014 - Present** | Scientist               | Fermi National Accelerator Laboratory (Fermilab) |
-| 06/2009 – 09/2014     | Application Physicist I | Fermi National Accelerator Laboratory (Fermilab) |
-| 06/2005 – 05/2009     | Research Associate      | Fermi National Accelerator Laboratory (Fermilab) |
-| 09/2001 – 02/2005     | Doctoral Candidate      | Deutsches Elektronen Synchrotron (DESY)          |
+| _Research Positions:_ |                         |                                                      |
+|:----------------------|:------------------------|:-----------------------------------------------------|
+| 09/2014 - Present     | Scientist               | Fermi National Accelerator Laboratory (Fermilab)     |
+| 06/2009 – 09/2014     | Application Physicist I | Fermi National Accelerator Laboratory (Fermilab)     |
+| 06/2005 – 05/2009     | Research Associate      | Fermi National Accelerator Laboratory (Fermilab)     |
+| 09/2001 – 02/2005     | Doctoral Candidate      | Deutsches Elektronen Synchrotron (DESY)              |
 
 
-| Education     |                                                                                                                     |
-|---------------|---------------------------------------------------------------------------------------------------------------------|
-| **2001-2005** | **University of Hamburg**, _Doctor of Natural Sciences_, Hamburg, Germany                                           |
-| Thesis title  | _Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment_                            |
-|               | _at the electron proton collider HERA_ [(link)](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
-| Advisors      | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                                                          |
+| _Education:_          |                                                                                |
+|-----------------------|--------------------------------------------------------------------------------|
+| 2001-2005             | University of Hamburg, _Doctor of Natural Sciences_, Hamburg, Germany          |
+| Thesis title          | _Measurement of beauty quark cross sections in photoproduction with the ZEUS_  |
+|                       | _experiment at the electron proton collider HERA_ [(thesis)](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
+| Advisors              | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                     |
 
 
-| Assignments       |                                                                                |
-|-------------------|--------------------------------------------------------------------------------|
-| 10/2016 - present | Deputy U.S.CMS Software and Computing Operations Program manager               |
-| 10/2016 - present | L2 manager for Software and Support - U.S.CMS Operations Program               |
-| 10/2016 - present | Deputy Head of the Scientific Services Quadrant - Fermilab                     |
-| 09/2015 – present | Focus Area Lead for Computing Infrastructure and Resources - CMS Collaboration |
+| _Assignments:_        |                                                                                |
+|-----------------------|--------------------------------------------------------------------------------|
+| 10/2016 - present     | Deputy U.S.CMS Software and Computing Operations Program manager               |
+| 10/2016 - present     | L2 manager for Software and Support - U.S.CMS Operations Program               |
+| 10/2016 - present     | Deputy Head of the Scientific Services Quadrant - Fermilab                     |
+| 09/2015 – present     | Focus Area Lead for Computing Infrastructure and Resources - CMS Collaboration |
 
 
 ## Research and Technical Experience
@@ -56,9 +56,8 @@ Link to Resume: [(PDF)](https://github.com/gutsche/ForThePublic/raw/master/cv/re
 * In 2015, the CMS collaboration appointed me Focus Area Lead for Services and Infrastructure in the CMS Software and Computing project. I am coordinating the efforts of the worldwide submission infrastructure, innovative new ways of using resources at commercial clouds and supercomputing centers, and the development of computing insfrastructure services like data management and workflow management systems.
 
 
-## Publications with Major Personal Contributions
+## Selected Recent Publications in Physics and Computing
 
-### Physics
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
 transverse momentum at $\sqrt{s}=13$ TeV**, *JHEP*. 06 (2018) 027,
@@ -72,7 +71,6 @@ doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
 
-### Computing
 <!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
@@ -91,6 +89,6 @@ Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
 
 ----------
 
-published on: 01. September 2018
+published on: 03. September 2018
 
 ----------

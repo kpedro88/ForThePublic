@@ -31,8 +31,10 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 | +1-630-840-8909                                                       | ![](inspire.png){ height=10px } [InSpire](https://inspirehep.net/author/profile/O.Gutsche.1) ![](orcid.png){ height=10px } [ORCID](https://orcid.org/0000-0002-8015-9622) |
 
 
+-------------------
+
 * Particle physicist conducting **leading edge research** for New Physics Beyond the Standard Model of Particle Physics
-    * Multiple years of experience in analyzing high-energy collisions using a multitude of different techniques. One of my most noticeable publications is the [**Observation of the Higgs Boson in 2012**](https://doi.org/10.1016/j.physletb.2012.08.021).
+    * Multiple years of experience in analyzing high-energy collisions using a multitude of different techniques. One of my most noticeable publications is the [Observation of the Higgs Boson in 2012](https://doi.org/10.1016/j.physletb.2012.08.021).
 * **Leader in scientific computing**
     * Expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques.
     * Deep experience in planning, developing, and operating distributed computing infrastructures that provide access to several hundred-thousand computing cores and hundreds of petabytes of disk space.
@@ -42,31 +44,34 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 * **U.S.CMS Software and Computing Operations Deputy Program manager** enabling analysis of LHC particle collisions in the U.S. for the 2500 physicist strong CMS collaboration.
 
 
-&nbsp;
-&nbsp;
+-------------------
 
-| Research Positions    |                         |                                                  |
-|:----------------------|:------------------------|:-------------------------------------------------|
-| **09/2014 - Present** | Scientist               | Fermi National Accelerator Laboratory (Fermilab) |
-| 06/2009 – 09/2014     | Application Physicist I | Fermi National Accelerator Laboratory (Fermilab) |
-| 06/2005 – 05/2009     | Research Associate      | Fermi National Accelerator Laboratory (Fermilab) |
-| 09/2001 – 02/2005     | Doctoral Candidate      | Deutsches Elektronen Synchrotron (DESY)          |
-
-
-| Education     |                                                                                                                     |
-|---------------|---------------------------------------------------------------------------------------------------------------------|
-| **2001-2005** | **University of Hamburg**, _Doctor of Natural Sciences_, Hamburg, Germany                                           |
-| Thesis title  | _Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment_                            |
-|               | _at the electron proton collider HERA_ [(link)](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
-| Advisors      | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                                                          |
+| _Research Positions:_ |                         |                                                      |
+|:----------------------|:------------------------|:-----------------------------------------------------|
+| 09/2014 - Present     | Scientist               | Fermi National Accelerator Laboratory (Fermilab)     |
+| 06/2009 – 09/2014     | Application Physicist I | Fermi National Accelerator Laboratory (Fermilab)     |
+| 06/2005 – 05/2009     | Research Associate      | Fermi National Accelerator Laboratory (Fermilab)     |
+| 09/2001 – 02/2005     | Doctoral Candidate      | Deutsches Elektronen Synchrotron (DESY)              |
 
 
-| Assignments       |                                                                                |
-|-------------------|--------------------------------------------------------------------------------|
-| 10/2016 - present | Deputy U.S.CMS Software and Computing Operations Program manager               |
-| 10/2016 - present | L2 manager for Software and Support - U.S.CMS Operations Program               |
-| 10/2016 - present | Deputy Head of the Scientific Services Quadrant - Fermilab                     |
-| 09/2015 – present | Focus Area Lead for Computing Infrastructure and Resources - CMS Collaboration |
+-------------------
+
+| _Education:_          |                                                                                |
+|-----------------------|--------------------------------------------------------------------------------|
+| 2001-2005             | University of Hamburg, _Doctor of Natural Sciences_, Hamburg, Germany          |
+| Thesis title          | _Measurement of beauty quark cross sections in photoproduction with the ZEUS_  |
+|                       | _experiment at the electron proton collider HERA_ [(thesis)](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
+| Advisors              | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                     |
+
+
+-------------------
+
+| _Assignments:_        |                                                                                |
+|-----------------------|--------------------------------------------------------------------------------|
+| 10/2016 - present     | Deputy U.S.CMS Software and Computing Operations Program manager               |
+| 10/2016 - present     | L2 manager for Software and Support - U.S.CMS Operations Program               |
+| 10/2016 - present     | Deputy Head of the Scientific Services Quadrant - Fermilab                     |
+| 09/2015 – present     | Focus Area Lead for Computing Infrastructure and Resources - CMS Collaboration |
 
 
 <!-- \newpage -->

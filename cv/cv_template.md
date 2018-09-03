@@ -7,9 +7,9 @@ margin-left: .5in
 margin-right: .5in
 margin-top: .7in
 margin-bottom: .6in
-fontsize: 10pt
-title: "Curriculum Vitae"
-author: "Oliver Gutsche"
+fontsize: 11pt
+# title: "Curriculum Vitae"
+# author: "Oliver Gutsche"
 footer: true
 leftheader: ""
 centerheader: "Curriculum Vitae of Oliver Gutsche"
@@ -19,42 +19,64 @@ centerfooter: ""
 rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
+# Curriculum Vitae of Oliver Gutsche
+
 changequote(`{{{{', `}}}}')
 
 include({{{{whoami.md}}}})
 
 include({{{{overview.md}}}})
 
-include({{{{short_research.md}}}})
+## Research Positions
+include({{{{research.md}}}})
+
+<!-- \newpage -->
+
+## Education
+include({{{{education.md}}}})
+
+## Assignments: U.S. CMS Software and Computing Operations Program
+include({{{{assignments_ops.md}}}})
+
+## Assignments: Fermi National Accelerator Laboratory - Scientific Computing Division
+include({{{{assignments_scd.md}}}})
+
+## Assignments: CMS Collaboration - Offline & Computing Project
+include({{{{assignments_cms_offcomp.md}}}})
+
+## Scholarships and Awards
+include({{{{awards.md}}}})
+
+## Research Experience
+### CMS collaboration: 2005 – Present
+include({{{{research_experience_cms.md}}}})
+### ZEUS collaboration: 2001 – 2005
+include({{{{research_experience_zeus.md}}}})
+
+## Technical Experience
+include({{{{technical_experience.md}}}})
+
+### Computing Infrastructure
+include({{{{technical_experience_comp.md}}}})
+
+### Software
+include({{{{technical_experience_soft.md}}}})
+
+### Reference Letters
+include({{{{reference_letters.md}}}})
 
 \newpage
 
-# Education
-include({{{{education.md}}}})
-
-# Assignments
-include({{{{assignments.md}}}})
-
-# Scholarships and Awards
-include({{{{awards.md}}}})
-
-# Research Experience
-include({{{{research_experience_cms.md}}}})
-include({{{{research_experience_zeus.md}}}})
-
-# Technical Experience
-include({{{{technical_experience.md}}}})
-
-# Physics Publications with Major Personal Contributions
+## Physics Publications with Major Personal Contributions
 include({{{{../publication_list/short_physics_publication_list.md}}}})
 
-# Computing Publications with Major Personal Contributions
+## Computing Publications with Major Personal Contributions
 include({{{{../publication_list/short_computing_publication_list.md}}}})
 
-# List of Presentation and Talks
+## List of Presentation and Talks
 include({{{{../talk_list/short_talk_list.md}}}})
 
-# List of Articles and Media Mentionings
+## List of Articles and Media Mentionings
 include({{{{../media_list/short_media_list.md}}}})
 
 ----------

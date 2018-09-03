@@ -29,12 +29,10 @@ include({{{{../cv/short_research_experience_cms.md}}}})
 
 include({{{{../cv/short_technical_experience.md}}}})
 
-## Publications with Major Personal Contributions
+## Selected Recent Publications in Physics and Computing
 
-### Physics
 include({{{{../publication_list/shortest_physics_publication_list.md}}}})
 
-### Computing
 include({{{{../publication_list/shortest_computing_publication_list.md}}}})
 
 ----------

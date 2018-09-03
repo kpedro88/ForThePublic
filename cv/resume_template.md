@@ -25,14 +25,19 @@ changequote(`{{{{', `}}}}')
 
 include({{{{whoami.md}}}})
 
+-------------------
+
 include({{{{short_overview.md}}}})
 
-&nbsp;
-&nbsp;
+-------------------
 
 include({{{{short_research.md}}}})
 
+-------------------
+
 include({{{{short_education.md}}}})
+
+-------------------
 
 include({{{{short_assignments.md}}}})
 
