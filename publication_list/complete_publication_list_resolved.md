@@ -505,13 +505,18 @@ particles produced in association with a top quark pair at $\sqrt{s} =$
 
 <!--#ref-Sirunyan:2018dvm-->A.M. Sirunyan et al., **Search for a charged
 Higgs boson decaying to charm and bottom quarks in proton-proton
-collisions at $\sqrt{s} =$ 8 TeV**, (2018), arXiv:[1808.06575
-\[hep-ex\]](http://arxiv.org/abs/1808.06575)
+collisions at $\sqrt{s} =$ 8 TeV**, *Submitted to: JHEP*. (2018),
+arXiv:[1808.06575 \[hep-ex\]](http://arxiv.org/abs/1808.06575)
 
 <!--#ref-Sirunyan:2018egh-->A.M. Sirunyan et al., **Measurements of
 properties of the Higgs boson decaying to a W boson pair in pp
 collisions at $\sqrt{s}=$ 13 TeV**, *Submitted to: Phys. Lett.* (2018),
 arXiv:[1806.05246 \[hep-ex\]](http://arxiv.org/abs/1806.05246)
+
+<!--#ref-Sirunyan:2018eqi-->A.M. Sirunyan et al., **Charged-particle
+nuclear modification factors in XeXe collisions at $\sqrt{s_{{NN}}}=$
+5.44 TeV**, (2018), arXiv:[1809.00201
+\[hep-ex\]](http://arxiv.org/abs/1809.00201)
 
 <!--#ref-Sirunyan:2018exx-->A.M. Sirunyan et al., **Search for high-mass
 resonances in dilepton final states in proton-proton collisions at
@@ -633,8 +638,8 @@ doi:[10.1007/JHEP05(2018)006](https://doi.org/10.1007/JHEP05(2018)006),
 arXiv:[1803.00042 \[nucl-ex\]](http://arxiv.org/abs/1803.00042)
 
 <!--#ref-Sirunyan:2018kst-->A.M. Sirunyan et al., **Observation of Higgs
-boson decay to bottom quarks**, (2018), arXiv:[1808.08242
-\[hep-ex\]](http://arxiv.org/abs/1808.08242)
+boson decay to bottom quarks**, *Submitted to: Phys. Rev. Lett.* (2018),
+arXiv:[1808.08242 \[hep-ex\]](http://arxiv.org/abs/1808.08242)
 
 <!--#ref-Sirunyan:2018kta-->A.M. Sirunyan et al., **Measurement of
 inclusive and differential Higgs boson production cross sections in the
@@ -699,8 +704,9 @@ $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1804.03682
 
 <!--#ref-Sirunyan:2018nkj-->A.M. Sirunyan et al., **Search for
 third-generation scalar leptoquarks decaying to a top quark and a $\tau$
-lepton at $\sqrt{s}=$ 13 TeV**, (2018), arXiv:[1803.02864
-\[hep-ex\]](http://arxiv.org/abs/1803.02864)
+lepton at $\sqrt{s}=$ 13 TeV**, *Eur. Phys. J.* C78 (2018) 707,
+doi:[10.1140/epjc/s10052-018-6143-z](https://doi.org/10.1140/epjc/s10052-018-6143-z),
+arXiv:[1803.02864 \[hep-ex\]](http://arxiv.org/abs/1803.02864)
 
 <!--#ref-Sirunyan:2018nnz-->A.M. Sirunyan et al., **Search for an
 $L_{\mu}-L_{\tau}$ gauge boson using Z $\to4\mu$ events in proton-proton
@@ -726,8 +732,9 @@ arXiv:[1806.05264 \[hep-ex\]](http://arxiv.org/abs/1806.05264)
 
 <!--#ref-Sirunyan:2018omb-->A.M. Sirunyan et al., **Search for vector-like
 T and B quark pairs in final states with leptons at $\sqrt{s} =$ 13
-TeV**, (2018), arXiv:[1805.04758
-\[hep-ex\]](http://arxiv.org/abs/1805.04758)
+TeV**, *JHEP*. 08 (2018) 177,
+doi:[10.1007/JHEP08(2018)177](https://doi.org/10.1007/JHEP08(2018)177),
+arXiv:[1805.04758 \[hep-ex\]](http://arxiv.org/abs/1805.04758)
 
 <!--#ref-Sirunyan:2018omt-->A.M. Sirunyan et al., **Search for top squarks
 decaying via four-body or chargino-mediated modes in single-lepton final
@@ -795,8 +802,9 @@ arXiv:[1805.04736 \[hep-ex\]](http://arxiv.org/abs/1805.04736)
 <!--#ref-Sirunyan:2018qio-->A.M. Sirunyan et al., **Measurement of the
 ${Z}\gamma^{*} \to \tau\tau$ cross section in pp collisions at
 $\sqrt{s} =$ 13 TeV and validation of $\tau$ lepton analysis
-techniques**, (2018), arXiv:[1801.03535
-\[hep-ex\]](http://arxiv.org/abs/1801.03535)
+techniques**, *Eur. Phys. J.* C78 (2018) 708,
+doi:[10.1140/epjc/s10052-018-6146-9](https://doi.org/10.1140/epjc/s10052-018-6146-9),
+arXiv:[1801.03535 \[hep-ex\]](http://arxiv.org/abs/1801.03535)
 
 <!--#ref-Sirunyan:2018qlb-->A.M. Sirunyan et al., **Search for a new
 scalar resonance decaying to a pair of Z bosons in proton-proton
@@ -826,11 +834,6 @@ states with electrons, muons, and hadronically decaying $\tau$ leptons
 at $\sqrt{s} =$ 13 TeV**, *JHEP*. 08 (2018) 066,
 doi:[10.1007/JHEP08(2018)066](https://doi.org/10.1007/JHEP08(2018)066),
 arXiv:[1803.05485 \[hep-ex\]](http://arxiv.org/abs/1803.05485)
-
-<!--#ref-Sirunyan:2018sna-->A.M. Sirunyan et al., **Search for production
-of Higgs boson pairs in the four b quark final state using large-area
-jets in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2018),
-arXiv:[1808.01473 \[hep-ex\]](http://arxiv.org/abs/1808.01473)
 
 <!--#ref-Sirunyan:2018swq-->A.M. Sirunyan et al., **Measurement of the
 weak mixing angle using the forward-backward asymmetry of Drell-Yan
@@ -889,15 +892,15 @@ additional jets in lepton+jets events from pp collisions at $\sqrt{s} =$
 doi:[10.1103/PhysRevD.97.112003](https://doi.org/10.1103/PhysRevD.97.112003),
 arXiv:[1803.08856 \[hep-ex\]](http://arxiv.org/abs/1803.08856)
 
-<!--#ref-Sirunyan:2018wer-->A.M. Sirunyan et al., **Search for narrow H
-$\gamma$ resonances in proton-proton collisions at $\sqrt{s} =$ 13
-TeV**, (2018), arXiv:[1808.01257
-\[hep-ex\]](http://arxiv.org/abs/1808.01257)
-
 <!--#ref-Sirunyan:2018wim-->A.M. Sirunyan et al., **Search for resonances
 in the mass spectrum of muon pairs produced in association with b quark
 jets in proton-proton collisions at $\sqrt{s} =$ 8 and 13 TeV**, (2018),
 arXiv:[1808.01890 \[hep-ex\]](http://arxiv.org/abs/1808.01890)
+
+<!--#ref-Sirunyan:2018wnk-->A.M. Sirunyan et al., **Search for physics
+beyond the standard model in high-mass diphoton events from
+proton-proton collisions at $\sqrt{s} =$ 13 TeV**, (2018),
+arXiv:[1809.00327 \[hep-ex\]](http://arxiv.org/abs/1809.00327)
 
 <!--#ref-Sirunyan:2018xdh-->A.M. Sirunyan et al., **Measurements of the
 differential jet cross section as a function of the jet mass in dijet
@@ -910,9 +913,11 @@ collisions at $\sqrt{s} =$ 13 TeV**, (2018), arXiv:[1806.10905
 \[hep-ex\]](http://arxiv.org/abs/1806.10905)
 
 <!--#ref-Sirunyan:2018xlo-->A.M. Sirunyan et al., **Search for narrow and
-broad dijet resonances in proton-proton collisions at $\sqrt{s}=$ 13 TeV
+broad dijet resonances in proton-proton collisions at $\sqrt{s}=13$ TeV
 and constraints on dark matter mediators and other new particles**,
-(2018), arXiv:[1806.00843 \[hep-ex\]](http://arxiv.org/abs/1806.00843)
+*JHEP*. 08 (2018) 130,
+doi:[10.1007/JHEP08(2018)130](https://doi.org/10.1007/JHEP08(2018)130),
+arXiv:[1806.00843 \[hep-ex\]](http://arxiv.org/abs/1806.00843)
 
 <!--#ref-Sirunyan:2018xwt-->A.M. Sirunyan et al., **Search for black holes
 and sphalerons in high-multiplicity final states in proton-proton
@@ -926,8 +931,9 @@ doi:[10.1007/JHEP06(2018)101](https://doi.org/10.1007/JHEP06(2018)101),
 arXiv:[1803.06986 \[hep-ex\]](http://arxiv.org/abs/1803.06986)
 
 <!--#ref-Sirunyan:2018zdc-->A.M. Sirunyan et al., **Measurement of charged
-particle spectra in minimum-bias events from proton-proton collisions at
-$\sqrt{s}=$ 13 TeV**, *Submitted to: Eur. Phys. J.* (2018),
+particle spectra in minimum-bias events from proton--proton collisions
+at $\sqrt{s}=13{TeV}$**, *Eur. Phys. J.* C78 (2018) 697,
+doi:[10.1140/epjc/s10052-018-6144-y](https://doi.org/10.1140/epjc/s10052-018-6144-y),
 arXiv:[1806.11245 \[hep-ex\]](http://arxiv.org/abs/1806.11245)
 
 <!--#ref-Sirunyan:2018zhy-->A.M. Sirunyan et al., **Search for
@@ -1810,15 +1816,15 @@ doi:[10.1016/j.physletb.2016.01.057](https://doi.org/10.1016/j.physletb.2016.01.
 arXiv:[1410.8812 \[hep-ex\]](http://arxiv.org/abs/1410.8812)
 
 <!--#ref-Khachatryan:2015att-->V. Khachatryan et al., **Search for
-anomalous single top quark production in association with a photon in pp
-collisions at $\sqrt{s}=8$ TeV**, *JHEP*. 04 (2016) 035,
+Anomalous Single Top Quark Production in Association with a Photon in
+$pp$ Collisions at $\sqrt{s}=8$ TeV**, *JHEP*. 04 (2016) 035,
 doi:[10.1007/JHEP04(2016)035](https://doi.org/10.1007/JHEP04(2016)035),
 arXiv:[1511.03951 \[hep-ex\]](http://arxiv.org/abs/1511.03951)
 
 <!--#ref-Khachatryan:2015baw-->V. Khachatryan et al., **Search for a
-low-mass pseudoscalar Higgs boson produced in association with a
-$b\bar{b}$ pair in pp collisions at $\sqrt{s} =$ 8 TeV**, *Phys. Lett.*
-B758 (2016) 296--320,
+Low-Mass Pseudoscalar Higgs Boson Produced in Association with a
+$b\bar{b}$ Pair in $pp$ Collisions at $\sqrt{s} =$ 8 TeV**, *Phys.
+Lett.* B758 (2016) 296--320,
 doi:[10.1016/j.physletb.2016.05.003](https://doi.org/10.1016/j.physletb.2016.05.003),
 arXiv:[1511.03610 \[hep-ex\]](http://arxiv.org/abs/1511.03610)
 
@@ -1848,8 +1854,8 @@ identification of τ lepton decays to hadrons and ν $_τ$ at CMS**,
 doi:[10.1088/1748-0221/11/01/P01019](https://doi.org/10.1088/1748-0221/11/01/P01019),
 arXiv:[1510.07488 \[physics.ins-det\]](http://arxiv.org/abs/1510.07488)
 
-<!--#ref-Khachatryan:2015dzz-->V. Khachatryan et al., **Measurement of top
-quark polarisation in t-channel single top quark production**, *JHEP*.
+<!--#ref-Khachatryan:2015dzz-->V. Khachatryan et al., **Measurement of Top
+Quark Polarisation in T-Channel Single Top Quark Production**, *JHEP*.
 04 (2016) 073,
 doi:[10.1007/JHEP04(2016)073](https://doi.org/10.1007/JHEP04(2016)073),
 arXiv:[1511.02138 \[hep-ex\]](http://arxiv.org/abs/1511.02138)
@@ -2008,8 +2014,8 @@ C76 (2016) 13,
 doi:[10.1140/epjc/s10052-015-3853-3](https://doi.org/10.1140/epjc/s10052-015-3853-3),
 arXiv:[1508.07819 \[hep-ex\]](http://arxiv.org/abs/1508.07819)
 
-<!--#ref-Khachatryan:2015scf-->V. Khachatryan et al., **Search for excited
-leptons in proton-proton collisions at sqrt(s) = 8 TeV**, *JHEP*. 03
+<!--#ref-Khachatryan:2015scf-->V. Khachatryan et al., **Search for Excited
+Leptons in Proton-Proton Collisions at $\sqrt{s}$ = 8 TeV**, *JHEP*. 03
 (2016) 125,
 doi:[10.1007/JHEP03(2016)125](https://doi.org/10.1007/JHEP03(2016)125),
 arXiv:[1511.01407 \[hep-ex\]](http://arxiv.org/abs/1511.01407)
@@ -2047,8 +2053,8 @@ doi:[10.1016/j.physletb.2016.01.056](https://doi.org/10.1016/j.physletb.2016.01.
 arXiv:[1510.01181 \[hep-ex\]](http://arxiv.org/abs/1510.01181)
 
 <!--#ref-Khachatryan:2015tzo-->V. Khachatryan et al., **Measurement of
-spin correlations in $t\bar{t}$ production using the matrix element
-method in the muon+jets final state in pp collisions at $\sqrt{s} =$ 8
+Spin Correlations in $t\bar{t}$ Production using the Matrix Element
+Method in the Muon+Jets Final State in $pp$ Collisions at $\sqrt{s} =$ 8
 TeV**, *Phys. Lett.* B758 (2016) 321--346,
 doi:[10.1016/j.physletb.2016.05.005](https://doi.org/10.1016/j.physletb.2016.05.005),
 arXiv:[1511.06170 \[hep-ex\]](http://arxiv.org/abs/1511.06170)
