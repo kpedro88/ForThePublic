@@ -39,7 +39,7 @@ logging.config.dictConfig({
 })
 
 inspirehepapi='http://inspirehep.net/search?'
-author_query='author:O.Gutsche.1 AND collection:citeable'
+author_query='author:K.Pedro.1 AND collection:citeable'
 
 def inspire_get_number_of_records():
     """
@@ -65,7 +65,7 @@ def inspire_get_number_of_records():
     except IndexError:
         number_of_records = 0
 
-    print("OLI's publication list has %i records" % number_of_records)
+    print("KJP's publication list has %i records" % number_of_records)
 
     return number_of_records
 
@@ -78,15 +78,16 @@ def inspire_get_bibtex(number_of_records):
         get BiBTeX of all records
     """
 
-    print("Querying Inspire for OLI's publication list records in BiBTeX format")
+    print("Querying Inspire for KJP's publication list records in BiBTeX format")
 
     db = BibDatabase()
 
     nrecords = 250
     nsteps = int(number_of_records/nrecords) + 1
+    counter = 0
     for step in range(nsteps):
         jrec = step*nrecords+1
-        url = inspirehepapi + 'of=hx&rg='+str(nrecords)+'&jrec='+str(jrec)+'&p=' + author_query.replace(' ', '+')
+        url = inspirehepapi + 'of=hx&so=d&rg='+str(nrecords)+'&jrec='+str(jrec)+'&p=' + author_query.replace(' ', '+')
         request = Request(url)
         try:
             response = urlopen(request)
@@ -104,6 +105,8 @@ def inspire_get_bibtex(number_of_records):
         parser = BibTexParser()
         tmp_db = bibtexparser.loads(BiBTeX, parser=parser)
         for entry in tmp_db.entries:
+            entry['counter'] = '{0:06d}'.format(counter)
+            counter += 1
             # repair some broken output
             entry['title'] = entry['title'].replace('\n',' ')
             entry['title'] = entry['title'].replace('\sqrts','\sqrt{s}')
@@ -124,19 +127,30 @@ def inspire_get_bibtex(number_of_records):
             entry['title'] = entry['title'].replace('\mathit','')
             if 'doi' in entry.keys(): entry['doi'] = entry['doi'].split(',')[0].strip()
 
-            if 'eprint' in entry.keys():
-                eprint = entry['eprint']
-                prefix = 'arXiv'
-                if 'archiveprefix' in entry.keys(): prefix = entry['archiveprefix']
-                primaryclass = 'hep-ex'
-                if 'primaryclass' in entry.keys(): primaryclass = entry['primaryclass']
-                url = 'http://arxiv.org/abs/' + eprint
-                urltext = eprint + ' [' + primaryclass +']'
-                note = prefix + ':\\href{' + url + '}{' + urltext + '}'
-                entry['note'] = note
+            # fix journal names for CMS style
+            if "journal" in entry.keys() and "volume" in entry.keys():
+                if "Phys. Lett." in entry["journal"] and "B" in entry["volume"]:
+                    entry["journal"] = "Phys. Lett. B"
+                    entry["volume"] = entry["volume"].replace("B","")
+                if "Phys. Rev." in entry["journal"] and "D" in entry["volume"]:
+                    entry["journal"] = "Phys. Rev. D"
+                    entry["volume"] = entry["volume"].replace("D","")
+                if "Phys. Rev." in entry["journal"] and "C" in entry["volume"]:
+                    entry["journal"] = "Phys. Rev. C"
+                    entry["volume"] = entry["volume"].replace("C","")
+                if "Eur. Phys. J." in entry["journal"] and "C" in entry["volume"]:
+                    entry["journal"] = "Eur. Phys. J. C"
+                    entry["volume"] = entry["volume"].replace("C","")
+
+            if "number" in entry.keys():
+                del entry["number"]
+
+            # fix page numbers for CMS style
+            if "pages" in entry.keys() and "-" in entry["pages"]:
+                entry["pages"] = entry["pages"].split("-")[0]
 
         db.entries.extend(tmp_db.entries)
-    print("OLI's publication db has: %i entries" % len(db.entries))
+    print("KJP's publication db has: %i entries" % len(db.entries))
     return db
 
 def write_bibtex_file(filename,db):
@@ -145,7 +159,7 @@ def write_bibtex_file(filename,db):
     """
 
     writer = BibTexWriter()
-    writer.order_entries_by = ('year','ID')
+    writer.order_entries_by = ('counter','year','ID')
     with open(filename,'w') as output_file:
         bibtex_str = bibtexparser.dumps(db,writer=writer)
         output_file.write(bibtex_str.encode('utf8'))
@@ -221,16 +235,11 @@ def update(inspire_db,physics_db,computing_db,experiment_db,short_physics_db,sho
     if len(missing_keys) > 0:
         print("Following records are new: '%s'" % '\',\''.join(missing_keys))
 
-    #  move keys to physics or computing
-    new_physics_keys = []
-    new_computing_keys=[]
-    physics_keys.extend(new_physics_keys)
-    computing_keys.extend(new_computing_keys)
-    # remove new keys from experiment
-    for key in new_physics_keys:
+    # remove keys from experiment
+    for key in physics_keys:
         while key in experiment_keys:
             experiment_keys.remove(key)
-    for key in new_computing_keys:
+    for key in computing_keys:
         while key in experiment_keys:
             experiment_keys.remove(key)
 
@@ -297,19 +306,19 @@ def update(inspire_db,physics_db,computing_db,experiment_db,short_physics_db,sho
 def main(args):
     """
 
-    generate publication list for O.Gutsche
+    generate publication list for K.Pedro
 
     Use Inspire query
 
-    http://inspirehep.net/search?author:O.Gutsche.1 AND collection:citeable
+    http://inspirehep.net/search?author:K.Pedro.1 AND collection:citeable
 
     and add additional records not covered by the query or read in BiBTeX file with the result of the query+additional records
 
     Then distribute the publication list into three BiBTeX files:
 
-    1. physics: all physics publications with direct involvment from OLI
-    2. computing: all computing publications with direct involvement from OLI
-    3. experiment: all publications through membership in experiment collaborations without direct involvement from OLI
+    1. physics: all physics publications with direct involvment from KJP
+    2. computing: all computing publications with direct involvement from KJP
+    3. experiment: all publications through membership in experiment collaborations without direct involvement from KJP
 
     """
 
